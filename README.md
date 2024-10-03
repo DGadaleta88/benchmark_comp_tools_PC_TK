@@ -36,7 +36,7 @@ The files in this repository were used to perform statistical analysis and to ge
 1. The file benchmark_comp_tools_p1.py was used to generate curated datasets used for benchmarking and statistical analysis and figures in Additional File 1
 2. The file benchmark_comp_tools_p2.knwf was used for generating Additional File 3 and Figures 2, 3, 4 and 5
    
-The datasets and the figures generated are available in the data/ folder. These include the curated chemical datasets in CSV format, along with the associated experimental property values.
+The datasets in CSV format with the associated experimental property values and the figures generated are available in the current repository and in the data/ folder of the benchmark_comp_tools_p2.knwf workflow area accessible from your KNIME workspace (C:\Users\<username>\knime-workspace\<workflow-pah>\Additional File 5\data.
 
 ## Data Description
 The datasets used for this benchmarking are collected from multiple literature sources and divided into categories such as drugs, natural products, and industrial chemicals. These datasets have been carefully curated to remove structural outliers, and experimental values have been cross-validated across different datasets.
@@ -44,7 +44,7 @@ To ensure data quality, the following steps were applied during curation:
 
 1. Response Outlier Removal: Z-scores were calculated for each dataset, and data points with a Z-score > 3 were considered outliers and removed.
 2. Cross-dataset Comparison: Experimental property values of chemicals shared among different datasets were compared. Chemicals with inconsistent values (standard deviation > 0.2 across datasets) were removed.
-3. Final Dataset: The curated datasets are available in the data/ folder in the present workflow area accessible from your KNIME workspace (C:\Users\<username>\knime-workspace\<workflow-pah>\Additional File 5\data.
+3. Final Dataset: The curated datasets are available in the current repository and in the Additional File 1 i ìn the referenced manuscript.
 
 Performance of tools in predicting datasets were evaluated with regard of the models’ external predictivity, emphasizing the performance inside of the models inside the’ applicability domain.
 

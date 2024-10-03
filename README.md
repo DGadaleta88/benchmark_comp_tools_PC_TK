@@ -33,7 +33,7 @@ To run the code provided in this repository, you need the following dependencies
 ## File description
 The files in this repository were used to perform statistical analysis and to generate datasets and figures included int he paper "Comprehensive Benchmarking of Computational Tools for Predicting Toxicokinetic and Physicochemical Properties of Chemicals" (Submitted manuscript).
 
-1. The file benchmark_comp_tools_p1.py was used to geenrate curated datasets used for benchmarking and statistical analysis
+1. The file benchmark_comp_tools_p1.py was used to generate curated datasets used for benchmarking and statistical analysis and figures in Additional File 1
 2. The file benchmark_comp_tools_p2.knwf was used for generating Additional File 3 and Figures 2, 3, 4 and 5
    
 The datasets and the figures generated are available in the data/ folder. These include the curated chemical datasets in CSV format, along with the associated experimental property values.

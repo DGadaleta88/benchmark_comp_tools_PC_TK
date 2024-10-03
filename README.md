@@ -30,7 +30,7 @@ To run the code provided in this repository, you need the following dependencies
 - Seaborn
 - Math
 
-## File dscription
+## File description
 The files in this repository were used to perform statistical analysis and to generate datasets and figures included int he paper "Comprehensive Benchmarking of Computational Tools for Predicting Toxicokinetic and Physicochemical Properties of Chemicals" (Submitted manuscript).
 
 1. The file benchmark_comp_tools_p1.py was used to geenrate curated datasets used for benchmarking and statistical analysis

@@ -1,0 +1,269 @@
+ID;orig_ID;SMILES;y;CAS;NAME;UNITS;smiles_source
+0;;Clc1cccc(Cl)c1Cl;52.6;87-61-6;1,2,3-trichlorobenzene;C;isoSMILES_from_CAS
+1;;Clc1cc(Cl)cc(Cl)c1;63.4;108-70-3;1,3,5-trichlorobenzene;C;isoSMILES_from_CAS
+2;;CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@H](O)C[C@]12C;222.0;80-75-1;11Î±-hydroxyprogesterone;C;isoSMILES_from_CAS
+3;;C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C;143.5;57-63-6;17Î±-ethynylestradiol;C;isoSMILES_from_CAS
+4;;Cc1cc(C)c2c(n1)N(C1CC1)c1ncccc1C(=O)N2;235.0;135794-77-3;2-methylnevirapine;C;isoSMILES_from_CAS
+5;;c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34;179.0;50-32-8;3,4-benzopyrene;C;isoSMILES_from_CAS
+6;;Nc1ccc(C(=O)O)cc1;187.8;150-13-0;4-aminobenzoic acid;C;isoSMILES_from_CAS
+7;;CCC1(CC)C(=O)NC(=S)NC1=O;180.0;77-32-7;5,5-diethyl-2-thiobarbiturate;C;isoSMILES_from_CAS
+8;;CCC1(CC)C(=O)NC(=O)NC1=O;190.0;57-44-3;5,5-diethylbarbiturate;C;isoSMILES_from_CAS
+9;;CC(C)C1(C(C)C)C(=O)NC(=O)NC1=O;227.5;99167-69-8;5,5-di-i-propylbarbiturate;C;isoSMILES_from_CAS
+10;;CC1(C)C(=O)N=C([O-])N=C1[O-];278.0;81913-65-7;5,5-dimethyl barbiturate;C;isoSMILES_from_CAS
+12;;C=CCC1(c2ccccc2)C(=O)NC(=O)NC1=O;158.5;115-43-5;5-allyl-5-phenyl barbiturate;C;isoSMILES_from_CAS
+13;;CCC1(CC=C(C)C)C(=O)NC(=O)NC1=O;158.3;21149-88-2;5-ethyl-5-(3-methylbut-2-enyl)barbiturate;C;isoSMILES_from_CAS
+14;;C=CCC1(CC)C(=O)NC(=O)NC1=O;160.7;2373-84-4;5-ethyl-5-allyl barbiturate;C;isoSMILES_from_CAS
+15;;CCCCCCCC1(CC)C(=O)[N-]C(=O)NC1=O;118.0;60784-70-5;5-ethyl-5-heptylbarbiturate;C;isoSMILES_from_CAS
+16;;CCCCCCCCCC1(CC)C(=O)NC(=O)NC1=O;113.0;64810-91-9;5-ethyl-5-nonyl barbiturate;C;isoSMILES_from_CAS
+17;;CC(C)=CCC1(C(C)C)C(=O)NC(=O)NC1=O;131.3;67051-26-7;5-i-propyl-5-(3-methylbut-2-enyl) barbiturate;C;isoSMILES_from_CAS
+18;;CC(C)=CCC1(C(C)(C)C)C(=O)NC(=O)NC1=O;212.0;143585-02-8;5-t-butyl-5-(3-methylbut-2-enyl)barbiturate;C;isoSMILES_from_CAS
+19;;Cc1cnc2cncnc2n1;197.0;936-40-3;7-methylpteridine;C;isoSMILES_from_CAS
+20;;CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1;123.0;37517-30-9;acebutolol;C;isoSMILES_from_NAME
+21;;CC(=O)Nc1ccccc1;114.0;103-84-4;acetanilide;C;isoSMILES_from_CAS
+22;;C=CCOc1ccc(CC(=O)O)cc1Cl;92.5;22131-79-9;alclofenac;C;isoSMILES_from_CAS
+23;;O=c1[nH]cnc2[nH]ncc12;350.0;315-30-0;allopurinol;C;isoSMILES_from_CAS
+24;;C=CCc1ccccc1OCC(O)CNC(C)C;109.0;13655-52-2;alprenolol;C;isoSMILES_from_CAS
+25;;CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)O;116.0;745-65-3;alprostadil;C;isoSMILES_from_CAS
+26;;Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C;108.0;58-15-1;aminopyrine;C;isoSMILES_from_CAS
+27;;CCC1(CCC(C)C)C(=O)NC(=O)NC1=O;157.0;57-43-2;amobarbital;C;isoSMILES_from_CAS
+28;;c1ccc2cc3ccccc3cc2c1;218.0;120-12-7;anthracene;C;isoSMILES_from_CAS
+29;;C=CCC1(C(C)C)C(=O)NC(=O)NC1=O;142.7;77-02-1;aprobarbital;C;isoSMILES_from_CAS
+30;;O=C1O[C@H]([C@@H](O)CO)C(O)=C1O;191.0;50-81-7;ascorbic acid;C;isoSMILES_from_CAS
+31;;CN1[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2;115.0;51-38-8;atropine;C;isoSMILES_from_NAME
+32;;Cn1cnc([N+](=O)[O-])c1Sc1ncnc2nc[nH]c12;243.5;446-86-6;azathioprine;C;isoSMILES_from_CAS
+33;;NC(=O)c1ccccc1;130.0;55-21-0;benzamide;C;isoSMILES_from_CAS
+34;;O=C(O)c1ccccc1;122.4;65-85-0;benzoic acid;C;isoSMILES_from_CAS
+35;;C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO;232.5;378-44-9;betamethasone;C;isoSMILES_from_CAS
+36;;CCCCC(=O)O[C@]1(C(=O)CO)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C;184.0;2152-44-5;betamethasone-17-valerate;C;isoSMILES_from_CAS
+37;;C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O;140.0;77-26-9;butalbital;C;isoSMILES_from_CAS
+38;;C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O;131.5;1142-70-7;butallylonal;C;isoSMILES_from_CAS
+39;;CCCCOC(=O)c1ccc(N)cc1;58.0;94-25-7;butamben;C;isoSMILES_from_CAS
+40;;CCCCC1(CC)C(=O)NC(=O)NC1=O;125.5;77-28-1;butobarbitone (butethal);C;isoSMILES_from_CAS
+41;;CCCCOC(=O)c1ccc(O)cc1;68.5;94-26-8;butylparaben;C;isoSMILES_from_CAS
+42;;CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2;179.8;464-49-3;camphor;C;isoSMILES_from_CAS
+43;;NC(=O)N1c2ccccc2C=Cc2ccccc21;191.5;298-46-4;carbamazepine;C;isoSMILES_from_CAS
+44;;CNC(=O)Oc1cccc2c1OC(C)(C)C2;151.5;1563-66-2;carbofuran;C;isoSMILES_from_CAS
+45;;Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1;190.0;25953-19-9;cefazolin;C;isoSMILES_from_CAS
+46;;OC(O)C(Cl)(Cl)Cl;57.0;302-17-0;chloral hydrate;C;isoSMILES_from_CAS
+47;;O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl;151.0;56-75-7;chloramphenicol;C;isoSMILES_from_CAS
+48;;CN=C1CN(O)C(c2ccccc2)=c2cc(Cl)ccc2=N1;236.0;58-25-3;chlordiazepoxide;C;isoSMILES_from_CAS
+49;;CN=C(NC#N)NCCSCc1nc[nH]c1C;141.5;51481-61-9;cimetidine;C;isoSMILES_from_CAS
+50;;O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O;266.0;85721-33-1;ciprofloxacin;C;isoSMILES_from_CAS
+51;;CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1;183.9;5786-21-0;clozapine;C;isoSMILES_from_CAS
+52;;COC(=O)[C@H]1[C@@H](OC(=O)c2ccccc2)C[C@@H]2CC[C@H]1N2C;98.0;50-36-2;cocaine;C;isoSMILES_from_CAS
+53;;COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2;146.0;64-86-8;colchicine;C;isoSMILES_from_CAS
+54;;CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3C(=O)C[C@@]21C;222.0;50-04-4;cortisone acetate;C;isoSMILES_from_CAS
+55;;O=C1NC(=O)C2(CCCC2)C(=O)N1;271.5;56209-30-4;cyclobutane-spirobarbiturate;C;isoSMILES_from_CAS
+56;;O=C1NC(=O)C2(CC2)C(=O)N1;325.0;6947-77-9;cycloethane-spirobarbiturate;C;isoSMILES_from_CAS
+57;;O=C1NC(=O)C2(CCCCCCC2)C(=O)N1;228.0;143288-62-4;cycloheptanespirobarbiturate;C;isoSMILES_from_CAS
+58;;O=C1NC(=O)C2(CCCCCC2)C(=O)N1;266.0;143288-61-3;cyclohexane-spirobarbiturate;C;isoSMILES_from_CAS
+59;;O=C1NC(=O)C2(CCCCC2)C(=O)N1;288.0;52-44-8;cyclopentanespirobarbiturate;C;isoSMILES_from_CAS
+60;;CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1;112.8;129-03-3;cyproheptadine;C;isoSMILES_from_CAS
+61;;Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1;175.5;80-08-0;dapsone;C;isoSMILES_from_CAS
+62;;CC(=O)OCC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C;157.0;56-47-3;deoxycorticosterone acetate;C;isoSMILES_from_CAS
+63;;CNCCCN1c2ccccc2CCc2ccccc21;25.0;50-47-5;desipramine;C;isoSMILES_from_CAS
+64;;C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO;263.0;50-02-2;dexamethasone;C;isoSMILES_from_CAS
+65;;O=c1[nH]cnc2c1ncn2[C@H]1CC[C@@H](CO)O1;161.5;69655-05-6;didanosine;C;isoSMILES_from_CAS
+66;;CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1;177.9;56-53-1;diethylstilbestrol;C;isoSMILES_from_CAS
+67;;O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O;210.5;22494-42-4;diflunisal;C;isoSMILES_from_CAS
+68;;CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C;94.8;3737-05 9;disopyramide;C;isoSMILES_from_NAME
+69;;CCN(CC)C(=S)SSC(=S)N(CC)CC;70.0;97-77-8;disulfiram;C;isoSMILES_from_CAS
+70;;C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O;176.0;50-28-2;estradiol;C;isoSMILES_from_CAS
+71;;C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O;282.0;50-27-1;estriol;C;isoSMILES_from_CAS
+72;;CCOC(=O)c1ccc(N)cc1;89.0;94-09-7;ethyl-4-aminobenzoate (benzocaine);C;isoSMILES_from_CAS
+73;;N#CC(CCc1ccc(Cl)cc1)(Cn1cncn1)c1ccccc1;125.0;114369-43-6;fenbuconazole;C;isoSMILES_from_CAS
+74;;O=C(O)Cc1ccccc1Oc1ccc(Cl)cc1Cl;135.0;34645-84-6;fenclofenac;C;isoSMILES_from_CAS
+75;;N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2;199.4;131341-86-1;fludioxonil;C;isoSMILES_from_CAS
+76;;O=c1[nH]cc(F)c(=O)[nH]1;282.0;51-21-8;fluorouracil;C;isoSMILES_from_CAS
+77;;NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl;295.0;54-31-9;furosemide;C;isoSMILES_from_CAS
+78;;CCC1(c2ccccc2)CCC(=O)NC1=O;87.5;77-21-4;glutethimide;C;isoSMILES_from_CAS
+79;;CC1(c2ccccc2)C(=O)NC(=O)NC1=O;228.5;76-94-8;heptobarbital;C;isoSMILES_from_CAS
+80;;CCCCCCC1(CC)C(=O)NC(=O)NC1=O;125.0;77-30-5;hexethal;C;isoSMILES_from_CAS
+81;;NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O;269.5;58-93-5;hydrochlorothiazide;C;isoSMILES_from_CAS
+82;;C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;220.8;50-23-7;hydrocortisone;C;isoSMILES_from_CAS
+83;;CN1[C@H]2CC[C@@H]1CC(OC(=O)[C@H](CO)c1ccccc1)C2;108.5;101-31-5;hyoscyamine;C;isoSMILES_from_CAS
+84;;CC(C)Cc1ccc(C(C)C(=O)O)cc1;74.6;15687-27-1;(+/â)-ibuprofen;C;isoSMILES_from_CAS
+85;;COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1;159.8;53-86-1;indomethacin;C;isoSMILES_from_CAS
+86;;CC(C(=O)O)c1ccc(N2Cc3ccccc3C2=O)cc1;212.5;31842-01-0;(+/â)-indoprofen;C;isoSMILES_from_CAS
+87;;C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C;203.5;68-22-4;norethindrone;C;isoSMILES_from_CAS
+88;;CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21;220.5;70458-96-7;norfloxacin;C;isoSMILES_from_CAS
+89;;CC(C)NCC1CCc2cc(CO)c([N+](=O)[O-])cc2N1;148.0;21738-42-1;oxamniquine;C;isoSMILES_from_CAS
+90;;O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O;205.5;604-75-1;oxazepam;C;isoSMILES_from_CAS
+91;;Nc1ccc(C(=O)O)c(O)c1;150.5;65-49-6;p-aminosalicylic acid;C;isoSMILES_from_CAS
+92;;CC(C)=CCN1CC[C@@]2(C)c3cc(O)ccc3C[C@@H]1[C@@H]2C;146.0;359-83-1;pentazocin;C;isoSMILES_from_CAS
+93;;CCCC(C)C1(CC)C(=O)NC(=O)NC1=O;129.5;76-74-4;pentobarbital;C;isoSMILES_from_CAS
+94;;CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O;105.0;6493-05 6;pentoxifylline;C;isoSMILES_from_NAME
+95;;CCOc1ccc(NC(C)=O)cc1;134.4;62-44-2;phenacetin;C;isoSMILES_from_CAS
+96;;c1ccc2c(c1)ccc1ccccc12;100.0;85-01-8;phenanthrene;C;isoSMILES_from_CAS
+97;;O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21;260.0;77-09-8;phenolphthalein;C;isoSMILES_from_CAS
+98;;CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O;105.0;50-33-9;phenylbutazone;C;isoSMILES_from_CAS
+99;;O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1;296.1;57-41-0;phenytoin;C;isoSMILES_from_NAME
+100;;CC(C)NCC(O)COc1cccc2[nH]ccc12;170.0;13523-86-9;pindolol;C;isoSMILES_from_CAS
+101;;CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O;200.3;36322-90-4;piroxicam;C;isoSMILES_from_CAS
+102;;CCC1(C(C)C)C(=O)NC(=O)NC1=O;198.0;76-76-6;probarbital;C;isoSMILES_from_CAS
+103;;CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1;198.5;57-66-9;probenecid;C;isoSMILES_from_CAS
+104;;CCN(CC)CCOC(=O)c1ccc(N)cc1;61.0;59-46-1;procaine;C;isoSMILES_from_CAS
+105;;CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C;126.0;57-83-0;progesterone;C;isoSMILES_from_CAS
+106;;CN(C)CCCN1c2ccccc2Sc2ccccc21;33.0;58-40-2;promazine;C;isoSMILES_from_CAS
+107;;CC(CN1c2ccccc2Sc2ccccc21)N(C)C;60.0;60-87-7;promethazine;C;isoSMILES_from_CAS
+108;;CNC(=O)Oc1ccccc1OC(C)C;91.5;114-26-1;propoxur;C;isoSMILES_from_CAS
+109;;CCC(=O)O[C@](Cc1ccccc1)(c1ccccc1)[C@H](C)CN(C)C;75.5;469-62-5;propoxyphene;C;isoSMILES_from_CAS
+110;;CCCOC(=O)c1ccc(O)cc1;96.5;94-13-3;propylparaben;C;isoSMILES_from_CAS
+111;;NC(=O)c1cnccn1;190.0;98-96-4;pyrazinamide;C;isoSMILES_from_CAS
+112;;c1cc2ccc3cccc4ccc(c1)c2c34;156.0;129-00-0;pyrene;C;isoSMILES_from_CAS
+113;;C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12;174.5;56-54-2;quinidine;C;isoSMILES_from_CAS
+114;;O=C(O)c1ccccc1O;158.0;69-72-7;salicylic acid;C;isoSMILES_from_CAS
+115;;C=CCC1(C(C)CCC)C(=O)NC(=O)NC1=O;95.0;76-73-3;secobarbital;C;isoSMILES_from_CAS
+116;;OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO;111.0;50-70-4;sorbitol;C;isoSMILES_from_CAS
+117;;CC(=O)NS(=O)(=O)c1ccc(N)cc1;183.0;144-80-9;sulfacetamide;C;isoSMILES_from_CAS
+118;;Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1;236.5;127-79-7;sulfamerazine;C;isoSMILES_from_CAS
+119;;Nc1ccc(S(=O)(=O)Nc2nccs2)cc1;202.0;72-14-0;sulfathiazole;C;isoSMILES_from_CAS
+120;;C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O;109.0;115-44-6;talbutal;C;isoSMILES_from_CAS
+121;;CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O;211.0;59804-37-4;tenoxicam;C;isoSMILES_from_CAS
+122;;C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O;153.8;58-22-0;testosterone;C;isoSMILES_from_CAS
+123;;COCCOc1c(OC)cc(Cc2cnc(N)nc2N)cc1OC;154.5;53808-87-0;tetroxoprim;C;isoSMILES_from_CAS
+124;;O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1;270.0;50-35-1;thalidomide;C;isoSMILES_from_CAS
+125;;CS(=O)(=O)c1ccc([C@@H](O)[C@@H](CO)NC(=O)C(Cl)Cl)cc1;165.3;15318-45-3;thiamphenicol;C;isoSMILES_from_CAS
+126;;CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2;73.0;50-52-2;thioridazine;C;isoSMILES_from_CAS
+127;;Cc1c[nH]c(=O)[nH]c1=O;316.0;65-71-4;thymine;C;isoSMILES_from_CAS
+128;;C[C@]12C[C@H](O)[C@@]3(F)[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1C[C@@H](O)[C@]2(O)C(=O)CO;270.0;124-94-7;triamcinolone;C;isoSMILES_from_CAS
+129;;CC(=O)OCC(=O)[C@@]1(O)[C@H](OC(C)=O)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C;235.0;67-78-7;triamcinolone diacetate;C;isoSMILES_from_CAS
+130;;Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2;234.0;28911-01-5;triazolam;C;isoSMILES_from_CAS
+131;;CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1;25.0;117-89-5;trifluoperazine;C;isoSMILES_from_CAS
+132;;CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O;161.0;81-81-2;warfarin;C;isoSMILES_from_CAS
+133;;Oc1ccc2ccccc2c1;122.0;135-19-3;2-naphthol;C;isoSMILES_from_CAS
+134;;O=C1NC(=O)C(c2ccccc2)(c2ccccc2)C(=O)N1;288.0;21914-07-8;5,5-diphenylbarbiturate;C;isoSMILES_from_CAS
+135;;Nc1ccc(O)c(C(=O)O)c1;280.0;89-57-6;5-aminosalicylic acid;C;isoSMILES_from_CAS
+136;;CCCCCCCCC1(CC)C(=O)NC(=O)NC1=O;113.0;64810-90-8;5-ethyl-5-octylbarbiturate;C;isoSMILES_from_CAS
+137;;CCCC1(CC)C(=O)NC(=O)NC1=O;144.0;33376-25-9;5-ethyl-5-propylbarbiturate;C;isoSMILES_from_CAS
+138;;CCC1C(=O)NC(=O)NC1=O;191.0;2518-72-1;5-ethyl-barbiturate;C;isoSMILES_from_CAS
+139;;CC(C)=CCC1(C)C(=O)NC(=O)NC1=O;193.0;66843-01-4;5-methyl-5-(3-methylbut-2-enyl)barbiturate;C;isoSMILES_from_CAS
+140;;CCC1(C)C(=O)NC(=O)NC1=O;216.0;27653-63-0;5-methyl-5-ethylbarbiturate;C;isoSMILES_from_CAS
+141;;c1cc2c3c(cccc3c1)CC2;95.0;83-32-9;acenaphthene;C;isoSMILES_from_CAS
+142;;CC(=O)Nc1nnc(S(N)(=O)=O)s1;258.5;59-66-5;acetazolamide;C;isoSMILES_from_CAS
+143;;Nc1nc2c(ncn2COCCO)c(=O)[nH]1;265.0;59277-89-3;acyclovir;C;isoSMILES_from_CAS
+144;;Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O;234.5;58-61-7;adenosine;C;isoSMILES_from_CAS
+145;;C=CCC1(CC=C)C(=O)NC(=O)NC1=O;172.0;52-43-7;allobarbital;C;isoSMILES_from_CAS
+146;;Cc1cc(=O)n(-c2ccccc2)n1C;112.0;60-80-0;antipyrine;C;isoSMILES_from_CAS
+147;;CC(C)NCC(O)COc1ccc(CC(N)=O)cc1;147.0;29122-68-7;atenolol;C;isoSMILES_from_CAS
+148;;CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1Cc4ccc(O)c5c4[C@@]3(CCN1CC1CC1)[C@H]2O5;210.0;52485-79-7;buprenorphine;C;isoSMILES_from_CAS
+149;;Cn1c(=O)c2c(ncn2C)n(C)c1=O;238.0;58-08-2;caffeine;C;isoSMILES_from_CAS
+150;;CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21;57.0;50-53-3;chlorpromazine;C;isoSMILES_from_CAS
+152;;C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO;141.5;64-85-7;deoxycorticosterone;C;isoSMILES_from_NAME
+153;;CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I;300.0;117-96-4;diatrizoic acid;C;isoSMILES_from_CAS
+154;;CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1;158.5;330-54-1;diuron;C;isoSMILES_from_CAS
+155;;CNC[C@H](O)c1ccc(O)c(O)c1;211.5;51-43-4;epinephrine;C;isoSMILES_from_CAS
+156;;CCOC(=O)c1cncn1[C@H](C)c1ccccc1;67.0;33125-97-2;etomidate;C;isoSMILES_from_CAS
+157;;CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl;145.0;72509-76-3;felodipine;C;isoSMILES_from_CAS
+158;;O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1;186.1;36330-85-5;fenbufen;C;isoSMILES_from_CAS
+159;;COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl;41.0;299-84-3;fenchlorphos;C;isoSMILES_from_CAS
+160;;CCC1(C2=CCCCCC2)C(=O)NC(=O)NC1=O;175.0;509-86-4;heptabarbital;C;isoSMILES_from_CAS
+161;;CN(C)CCCN1c2ccccc2CCc2ccccc21;174.5;50-49-7;imipramine;C;isoSMILES_from_CAS
+162;;CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O;136.0;36734-19-7;iprodione;C;isoSMILES_from_CAS
+163;;COc1ccccc1OCC(O)COC(N)=O;93.0;532-03-6;methocarbamol;C;isoSMILES_from_CAS
+164;;COC(=O)c1ccc(O)cc1;131.0;99-76-3;methyl-p-hydroxybenzoate;C;isoSMILES_from_CAS
+165;;C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C;163.5;58-18-4;methyltestosterone;C;isoSMILES_from_CAS
+166;;N=c1nc(N2CCCCC2)cc(N)n1O;248.0;38304-91-5;minoxidil;C;isoSMILES_from_CAS
+167;;O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1;263.0;67-20-9;nitrofurantoin;C;isoSMILES_from_CAS
+168;;CN1CCN(CCCN2c3ccccc3Sc3ccccc32)CC1;53.0;84-97-9;perazine;C;isoSMILES_from_CAS
+169;;OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1;96.9;58-39-9;perphenazine;C;isoSMILES_from_CAS
+170;;CCC1(c2ccccc2)C(=O)NC(=O)NC1=O;175.0;50-06-6;phenobarbital;C;isoSMILES_from_CAS
+171;;CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1;228.0;58-38-8;prochlorperazine;C;isoSMILES_from_CAS
+172;;O=C(O)[C@@H]1CCCN1;221.0;147-85-3;proline;C;isoSMILES_from_CAS
+173;;CCC1(C2=CC3CCC(C2)C3)C(=O)NC(=O)NC1=O;213.0;3625-25-0;reposal;C;isoSMILES_from_CAS
+174;;O=C1NS(=O)(=O)c2ccccc21;229.3;81-07-2;saccharin;C;isoSMILES_from_CAS
+175;;NC(=O)c1ccccc1O;140.0;65-45-2;salicylamide;C;isoSMILES_from_CAS
+176;;CCC(C)C1(CC)C(=O)NC(=O)NC1=O;166.5;125-40-6;secbutabarbital;C;isoSMILES_from_CAS
+177;;CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]34CCC(=O)O4)[C@@H]21;134.5;52-01-7;spironolactone;C;isoSMILES_from_CAS
+178;;C[C@]12CC[C@H]3[C@@H](CC[C@H]4CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O;181.0;521-18-6;stanolone;C;isoSMILES_from_CAS
+179;;O=C1C[C@@H]2OCC=C3CN4CC[C@]56c7ccccc7N1[C@H]5[C@H]2[C@H]3C[C@H]46;280.0;57-24-9;strychnine;C;isoSMILES_from_CAS
+180;;Nc1ccc(S(N)(=O)=O)cc1;165.5;63-74-1;sulfanilamide;C;isoSMILES_from_CAS
+181;;c1ccc2c(c1)c1ccccc1c1ccccc21;199.0;217-59-4;triphenylene;C;isoSMILES_from_CAS
+182;;O=c1cc[nH]c(=O)[nH]1;338.0;66-22-8;uracil;C;isoSMILES_from_CAS
+183;;Brc1ccc(Br)cc1;87.3;106-37-6;1,4-dibromobenzene;C;isoSMILES_from_CAS
+184;;Cc1ccc2cc3c(ccc4ccccc43)c3c2c1CC3;179.5;56-49-5;3-methylcholanthrene;C;isoSMILES_from_CAS
+185;;CCCCCC1(CC)C(=O)NC(=O)NC1=O;135.0;115-58-2;5-ethyl-5-pentylbarbiturate;C;isoSMILES_from_CAS
+186;;C=CCC1(C)C(=O)NC(=O)NC1=O;167.0;143585-01-7;5-methyl-5-allylbarbiturate;C;isoSMILES_from_CAS
+187;;CC(=O)Nc1ccc(O)cc1;169.8;103-90-2;acetaminophen;C;isoSMILES_from_CAS
+188;;CN(C)CCC=C1c2ccccc2CCc2ccccc21;196.0;50-48-6;amitriptyline;C;isoSMILES_from_CAS
+189;;CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)O;200.5;69-53-4;ampicillin;C;isoSMILES_from_CAS
+190;;CC(=O)Oc1ccccc1C(=O)O;138.5;50-78-2;aspirin;C;isoSMILES_from_CAS
+191;;CCNc1nc(Cl)nc(NC(C)C)n1;172.5;1912-24-9;atrazine;C;isoSMILES_from_CAS
+192;;NCC(CC(=O)O)c1ccc(Cl)cc1;208.0;1134-47-0;baclofen;C;isoSMILES_from_CAS
+193;;O=C(CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1;170.9;2062-84-2;benperidol;C;isoSMILES_from_CAS
+194;;c1ccc2cc3c(ccc4ccccc43)cc2c1;160.0;56-55-3;benzanthracene;C;isoSMILES_from_CAS
+195;;c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1;142.0;60628-96-8;bifonazole;C;isoSMILES_from_CAS
+196;;CCCCNc1cc(C(=O)O)cc(S(N)(=O)=O)c1Oc1ccccc1;230.5;28395-03-1;bumetanide;C;isoSMILES_from_CAS
+197;;CS(=O)(=O)OCCCCOS(C)(=O)=O;116.0;55-98-1;busulfan;C;isoSMILES_from_CAS
+198;;CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1;127.8;94-20-2;chlorpropamide;C;isoSMILES_from_CAS
+199;;CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl;41.5;2921-88-2;chlorpyrifos;C;isoSMILES_from_CAS
+200;;CN(C)[C@@H]1C(=O)C(C(N)=O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12;168.5;57-62-5;chlortetracycline;C;isoSMILES_from_CAS
+201;;NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl;225.0;77-36-1;chlorthalidone;C;isoSMILES_from_CAS
+202;;c1ccc2c(c1)ccc1c3ccccc3ccc21;254.0;218-01-9;chrysene;C;isoSMILES_from_CAS
+203;;CC(C)N=c1cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1;211.0;2030-63-9;clofazimine;C;isoSMILES_from_CAS
+204;;Clc1cccc(Cl)c1NC1=NCCN1;130.0;4205-90-7;clonidine;C;isoSMILES_from_CAS
+205;;COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314;157.5;76-57-3;codeine;C;isoSMILES_from_CAS
+206;;C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO;145.0;50-22-6;corticosterone;C;isoSMILES_from_CAS
+207;;C[C@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;222.0;53-06-5;cortisone;C;isoSMILES_from_CAS
+208;;CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O;172.5;52-31-3;cyclobarbital;C;isoSMILES_from_CAS
+209;;CC(=O)OCC(=O)[C@@]1(O)[C@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C;263.0;1177-87-3;dexamethasone acetate;C;isoSMILES_from_CAS
+210;;CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21;128.6;439-14-5;diazepam;C;isoSMILES_from_CAS
+211;;CC1=NS(=O)(=O)c2cc(Cl)ccc2N1;327.2;364-98-7;diazoxide;C;isoSMILES_from_CAS
+212;;CC(Oc1ccc(Cl)cc1Cl)C(=O)O;117.5;120-36-5;dichlorprop;C;isoSMILES_from_CAS
+213;;O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl;157.0;15307-86-5;diclofenac;C;isoSMILES_from_CAS
+214;;c1ccc(-c2ccccc2)cc1;70.0;92-52-4;diphenyl;C;isoSMILES_from_CAS
+215;;CN[C@@H](C)[C@H](O)c1ccccc1;34.0;299-42-3;ephedrine;C;isoSMILES_from_CAS
+216;;CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O;191.0;114-07-8;erythromycin;C;isoSMILES_from_CAS
+217;;C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CCC2=O;255.3;53-16-7;estrone;C;isoSMILES_from_CAS
+218;;CCOC(=O)c1ccc(O)cc1;116.0;120-47-8;ethylparaben;C;isoSMILES_from_CAS
+219;;NC(N)=Nc1nc(CSCC/C(N)=N/S(N)(=O)=O)cs1;163.5;76824-35-6;famotidine;C;isoSMILES_from_CAS
+220;;CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1;53.5;72490-01-8;fenoxycarb;C;isoSMILES_from_CAS
+221;;N#Cc1c[nH]cc1-c1cccc(Cl)c1Cl;152.9;74738-17-3;fenpiclonil;C;isoSMILES_from_CAS
+222;;C[C@]12C[C@H](O)[C@@]3(F)[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;261.0;127-31-1;fludrocortisone;C;isoSMILES_from_CAS
+223;;O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1;125.0;530-78-9;flufenamic acid;C;isoSMILES_from_CAS
+224;;CN(C)C(=O)Nc1cccc(C(F)(F)F)c1;163.5;2164-17-2;fluometuron;C;isoSMILES_from_CAS
+225;;c1ccc2c(c1)Cc1ccccc1-2;116.5;86-73-7;fluorene;C;isoSMILES_from_CAS
+226;;CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1;110.0;5104-49-4;flurbiprofen;C;isoSMILES_from_CAS
+227;;ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl;112.5;58-89-9;g-bhc (lindane);C;isoSMILES_from_CAS
+228;;COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O;219.0;126-07-8;griseofulvin;C;isoSMILES_from_CAS
+229;;COc1ccccc1OCC(O)CO;78.8;93-14-1;guaifenesin;C;isoSMILES_from_CAS
+230;;O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1;148.7;52-86-8;haloperidol;C;isoSMILES_from_CAS
+231;;CC(=O)Oc1ccc2c3c1O[C@H]1[C@@H](OC(C)=O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314;173.0;561-27-3;heroin;C;isoSMILES_from_CAS
+232;;Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl;231.0;118-74-1;hexachlorobenzene;C;isoSMILES_from_CAS
+233;;NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O;272.5;135-09-1;hydroflumethiazide;C;isoSMILES_from_CAS
+234;;Cc1cc(C(=O)NNCc2ccccc2)no1;105.5;59-63-2;isocarboxazid;C;isoSMILES_from_CAS
+235;;CCN(CC)CC(=O)Nc1c(C)cccc1C;68.5;137-58-6;lidocaine;C;isoSMILES_from_CAS
+236;;CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1;93.5;330-55-2;linuron;C;isoSMILES_from_CAS
+237;;CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21;174.5;75330-75-5;lovastatin;C;isoSMILES_from_CAS
+238;;Cc1cccc(Nc2ccccc2C(=O)O)c1C;230.5;61-68-7;mefenamic acid;C;isoSMILES_from_CAS
+239;;CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC;147.3;364-62-5;metoclopramide;C;isoSMILES_from_CAS
+240;;Cc1ncc([N+](=O)[O-])n1CCO;159.0;443-48-1;metronidazole;C;isoSMILES_from_CAS
+241;;c1ccc2cc3cc4ccccc4cc3cc2c1;357.0;92-24-0;naphthacene;C;isoSMILES_from_CAS
+242;;COc1ccc2cc([C@H](C)C(=O)O)ccc2c1;154.3;22204-53-1;naproxen;C;isoSMILES_from_CAS
+243;;Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1;248.0;129618-40-2;nevirapine;C;isoSMILES_from_CAS
+244;;NC(=O)c1cccnc1;129.5;98-92-0;nicotinamide;C;isoSMILES_from_CAS
+245;;O=C(O)c1cccnc1;236.6;59-67-6;nicotinic acid;C;isoSMILES_from_CAS
+246;;COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1;156.0;73590-58-6;omeprazole;C;isoSMILES_from_CAS
+247;;O=C(O)c1cc(=O)[nH]c(=O)[nH]1;345.5;65-86-1;orotic acid;C;isoSMILES_from_CAS
+248;;CC(C)(S)[C@@H](N)C(=O)O;204.0;52-67-5;penicillamine;C;isoSMILES_from_CAS
+249;;c1cc2cccc3c4cccc5cccc(c(c1)c23)c54;273.5;198-55-0;perylene;C;isoSMILES_from_CAS
+250;;C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]1CCC2=O;140.5;53-43-0;prasterone;C;isoSMILES_from_CAS
+251;;CCC1(c2ccccc2)C(=O)NCNC1=O;281.5;125-33-7;primidone;C;isoSMILES_from_CAS
+252;;CC(C)NCC(O)COc1cccc2ccccc12;129.0;525-66-6;propranolol;C;isoSMILES_from_CAS
+253;;CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\CCCC(=O)O;67.0;363-24-6;prostaglandin E2;C;isoSMILES_from_CAS
+254;;CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C;135.5;603-00-9;proxyphylline;C;isoSMILES_from_CAS
+255;;c1cnc2ncncc2n1;139.5;91-18-9;pteridine;C;isoSMILES_from_CAS
+256;;C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12;177.0;130-95-0;quinine;C;isoSMILES_from_CAS
+257;;CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21;136.5;79902-63-9;simvastatin;C;isoSMILES_from_CAS
+258;;Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1;252.5;68-35-9;sulfadiazine;C;isoSMILES_from_CAS
+259;;Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1;176.0;57-68-1;sulfamethazine;C;isoSMILES_from_CAS
+260;;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1;171.5;723-46-6;sulfamethoxazole;C;isoSMILES_from_CAS
+261;;CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)=O)cc1;185.3;38194-50-2;sulindac;C;isoSMILES_from_CAS
+262;;CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC;179.0;15676-16-1;sulpiride;C;isoSMILES_from_CAS
+263;;Cn1cnc2c1c(=O)[nH]c(=O)n2C;357.0;83-67-0;theobromine;C;isoSMILES_from_CAS
+264;;Cn1c(=O)c2[nH]cnc2n(C)c1=O;273.0;58-55-9;theophylline;C;isoSMILES_from_CAS
+265;;CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1;293.0;76-25-5;triamcinolone acetonide;C;isoSMILES_from_CAS
+266;;Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1;316.0;396-01-0;triamterene;C;isoSMILES_from_CAS
+267;;CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21;25.0;146-54-3;triflupromazine;C;isoSMILES_from_CAS
+268;;COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC;200.4;738-70-5;trimethoprim;C;isoSMILES_from_CAS
+269;;Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2;230.0;28981-97-7;xanax;C;isoSMILES_from_CAS

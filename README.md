@@ -29,13 +29,18 @@ To run the code provided in this repository, you need the following dependencies
 - Matplotlib
 - Seaborn
 - Math
+- Scipy
+- Pathlib
+- itertools
+- re
+
 
 ## File description
 The files in this repository were used to perform statistical analysis and to generate datasets and figures included int he paper "Comprehensive Benchmarking of Computational Tools for Predicting Toxicokinetic and Physicochemical Properties of Chemicals" (Submitted manuscript).
 
 1. The file benchmark_comp_tools_p1.py was used to generate curated datasets used for benchmarking and statistical analysis and figures in Additional File 1
 2. The file benchmark_comp_tools_p2.knwf was used for generating Additional File 3 and Figures 2, 3, 4 and 5
-   
+
 The datasets in CSV format with the associated experimental property values and the figures generated are available in the current repository and in the data/ folder of the benchmark_comp_tools_p2.knwf workflow area accessible from your KNIME workspace (C:\Users\<username>\knime-workspace\<workflow-pah>\Additional File 5\data.
 
 ## Data Description

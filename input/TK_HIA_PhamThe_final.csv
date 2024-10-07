@@ -1,0 +1,302 @@
+ID;orig_ID;SMILES;y;CAS;NAME;UNITS;smiles_source
+63;64;C#C[C@@]1(O)CC[C@@H]2[C@H]3CCC4=Cc5oncc5C[C@@]4(C)[C@@H]3CC[C@]21C;58.0;;Danazol;%;SMILES
+92;93;C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C;100.0;;Ethinyl estradiol;%;SMILES
+61;62;C/C=C/C[C@H](C)[C@H](O)[C@H]1C(=O)N[C@@H](CC)C(=O)N(C)CC(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](CC(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)N1C;35.0;;Cyclosporine A;%;SMILES
+89;90;C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12;72.0;;Exemestane;%;SMILES
+361;362;C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5;91.0;;Naloxone;%;SMILES
+362;363;C=CCOc1ccccc1OCC(CNC(C)C)OC(=O)C1CC1;97.0;;Oxprenolol ester;%;SMILES
+192;193;C=CCOc1ccccc1OCC(O)CNC(C)C;97.0;;Oxprenolol;%;SMILES
+261;262;C=CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC;25.0;;Tacrolimus;%;SMILES
+6;7;C=CCc1ccccc1OCC(O)CNC(C)C;95.0;;Alprenolol;%;SMILES
+249;250;C=C[C@@H]1CN2CC[C@@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12;100.0;;Spironolactone;%;SMILES
+222;223;C=C[C@H]1C[N@]2CC[C@H]1C[C@@H]2C(O)c1ccnc2ccc(OC)cc12;100.0;;Quinidine;%;SMILES
+175;176;CC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)[nH]c1=O;28.0;;Netivudine (882C87);%;SMILES
+294;295;CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O;93.0;;Warfarin;%;SMILES
+197;198;CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O;90.0;;Pentoxifylline;%;SMILES
+135;136;CC(=O)N1CCN(c2ccc(OC[C@@H]3CO[C@@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1;76.0;;Ketoconazole;%;SMILES
+618;619;CC(=O)NC1C(O)OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(CO)C(OC4OC(C(=O)O)C(O)C(O)C4OS(=O)(=O)O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C1O;8.0;;Ardeparin;%;SMILES
+209;210;CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1;95.0;;Practolol;%;SMILES
+684;685;CC(=O)O[C@@H]1C(=O)[C@]2(C)[C@@H]([C@@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@H](NC(=O)c4ccccc4)c4ccccc4)C(C)=C1C3(C)C)[C@@]1(OC(C)=O)CO[C@H]1C[C@H]2O;6.0;;Taxol (paclitaxel);%;SMILES
+216;217;CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C;91.0;;Progesterone;%;SMILES
+102;103;CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1;92.0;;Flurbiprofen;%;SMILES
+136;137;CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1;92.0;;Ketoprofen;%;SMILES
+99;100;CC(C(=O)O)c1cccc(Oc2ccccc2)c1;85.0;;Fenoprofen;%;SMILES
+241;242;CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1;4.0;;Saquinavir;%;SMILES
+128;129;CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O;63.0;;Indinavir;%;SMILES
+262;263;CC(C)(C)NCC(O)COc1ccc(NC(=O)NC2CCCCC2)cc1;65.0;;Talinolol;%;SMILES
+173;174;CC(C)(C)NCC(O)COc1cccc2c1C[C@H](O)[C@H](O)C2;32.0;;Nadolol;%;SMILES
+276;277;CC(C)(C)NC[C@H](O)COc1nsnc1N1CCOCC1;90.0;;Timolol;%;SMILES
+240;241;CC(C)(C)NC[C@H](O)c1ccc(O)c(CO)c1;85.0;;Salbutamol;%;SMILES
+270;271;CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1;95.0;;Terfenadine;%;SMILES
+911;912;CC(C)(O/N=C(/C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(C[n+]3ccccc3)CS[C@@H]12)c1csc(N)n1)C(=O)O;2.0;;Ceftazidime;%;SMILES
+627;628;CC(C)CC(N)C(=O)O;100.0;;L-Leucine;%;SMILES
+64;65;CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1;80.0;;Darunavir;%;SMILES
+16;17;CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1;70.0;;Amprenavir (APV);%;SMILES
+30;31;CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]2(O)O[C@](NC(=O)[C@@H]3C=C4c5cccc6[nH]c(Br)c(c56)C[C@H]4N(C)C3)(C(C)C)C(=O)N12;40.0;;Bromocriptine;%;SMILES
+124;125;CC(C)Cc1ccc(C(C)C(=O)O)cc1;100.0;;Ibuprophen;%;SMILES
+78;79;CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C;80.0;;Disopyramide;%;SMILES
+25;26;CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1;90.0;;Betaxolol;%;SMILES
+27;28;CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1;46.0;;Bisoprolol;%;SMILES
+204;205;CC(C)NCC(O)COc1cccc2[nH]ccc12;98.0;;Pindolol;%;SMILES
+161;162;CC(C)NCC(O)c1cc(O)cc(O)c1;43.0;;Metaproterenol;%;SMILES
+247;248;CC(C)NCC(O)c1ccc(NS(C)(=O)=O)cc1;95.0;;Sotalol;%;SMILES
+1290;1291;CC(C)Oc1cccc(CC(=O)N2CCCC(CC[N+]34CCC(c5ccccc5)(CC3)CC4)(c3ccc(Cl)c(Cl)c3)C2)c1;4.0;;SR140333;%;SMILES
+417;418;CC(C)[C@H](N)C(=O)OCCOCn1cnc2c(=O)nc(N)[nH]c21;36.0;;Valaciclovir;%;SMILES
+19;20;CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O;30.0;;Atorvastatin;%;SMILES
+235;236;CC(C)c1nc(CN(C)C(=O)N[C@H](C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1;70.0;;Ritonavir;%;SMILES
+237;238;CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O;20.0;;Rosuvastatin;%;SMILES
+108;109;CC(C)n1c(/C=C/[C@H](O)C[C@H](O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21;98.0;;Fluvastatin;%;SMILES
+139;140;CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1;95.0;;Labetalol;%;SMILES
+218;219;CC(CN1c2ccccc2Sc2ccccc21)N(C)C;100.0;;Promethazine;%;SMILES
+100;101;CC(Cc1ccc(O)cc1)NCC(O)c1cc(O)cc(O)c1;60.0;;Fenoterol HBr;%;SMILES
+33;34;CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1;87.0;;Bupropion;%;SMILES
+26;27;CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1;90.0;;Bicalutamide;%;SMILES
+263;264;CC/C(=C(/c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1;100.0;;Tamoxifen;%;SMILES
+281;282;CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1;81.0;;Topiramate;%;SMILES
+15;16;CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O;45.0;;Ampicillin;%;SMILES
+196;197;CC1(C)SC2C(NC(=O)COc3ccccc3)C(=O)N2C1C(=O)O;45.0;;Penicillin V;%;SMILES
+43;44;CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)C3=CCC=CC3)[C@H]2SC1;95.0;;Cephradine;%;SMILES
+42;43;CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1;95.0;;Cephalexin;%;SMILES
+258;259;CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)=O)cc1;90.0;;Sulindac;%;SMILES
+184;185;CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23;100.0;;Ofloxacin;%;SMILES
+163;164;CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1;80.0;;Methadone;%;SMILES
+407;408;CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1;100.0;;Alfentanil;%;SMILES
+156;157;CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21;31.0;;Lovastatin;%;SMILES
+210;211;CCC(C)C(=O)O[C@@H]1C[C@@H](O)C=C2C=C[C@@H](C)[C@@H](CC[C@@H](O)C[C@@H](O)CC(=O)O)[C@@H]21;65.0;;Pravastatin;%;SMILES
+446;447;CCC(C)C1NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(N)CSSCC(C(=O)N2CCCC2C(=O)NC(CCCN=C(N)N)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CCC(N)=O)NC1=O;0.5;;Vasopressin;%;SMILES
+282;283;CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1;30.0;;Topotecan;%;SMILES
+1126;1127;CCC1=CC2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2;36.0;;Vinorelbine;%;SMILES
+264;265;CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC12C;77.0;;Telithromycin;%;SMILES
+21;22;CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O;35.0;;Azithromycin;%;SMILES
+0;1;CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1;75.0;;Acebutolol HCl;%;SMILES
+291;292;CCCC(CCC)C(=O)O;100.0;;Valproic acid;%;SMILES
+146;147;CCCC1CC(C(=O)NC(C(C)O)C2OC(SC)C(O)C(O)C2O)N(C)C1;20.0;;Lincomycin;%;SMILES
+32;33;CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1;100.0;;Budesonide;%;SMILES
+292;293;CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1)[C@H](C(=O)O)C(C)C;55.0;;Valsartan;%;SMILES
+1299;1300;CCCCCNC(=O)c1coc([C@@H]2C3CC[C@H](O3)[C@@H]2Cc2ccccc2CCC(=O)O)n1;100.0;;Ifetroban (BMS-180291);%;SMILES
+278;279;CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1;93.0;;Tolbutamide;%;SMILES
+155;156;CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1;80.0;;Losartan;%;SMILES
+1286;1287;CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1;85.0;;Amiodarone;%;SMILES
+4;5;CCCSc1ccc2nc(NC(=O)OC)[nH]c2c1;20.0;;Albendazole;%;SMILES
+219;220;CCCc1cc(=O)[nH]c(=S)[nH]1;76.0;;Propylthiouracil (PTU);%;SMILES
+265;266;CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1;90.0;;Telmisartan;%;SMILES
+244;245;CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12;100.0;;Sildenafil;%;SMILES
+148;149;CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1;100.0;;Lisuride;%;SMILES
+145;146;CCN(CC)CC(=O)Nc1c(C)cccc1C;98.0;;Lidocaine;%;SMILES
+46;47;CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12;89.0;;Chloroquine;%;SMILES
+168;169;CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC;95.0;;Metoclopramide;%;SMILES
+167;168;CCN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12;10.0;;Methylscopolamine;%;SMILES
+12;13;CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC;95.0;;Amisulpride;%;SMILES
+259;260;CCN1CCC[C@H]1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC;36.0;;Sulpiride;%;SMILES
+914;915;CCN1CCN(C(=O)NC(C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=C(CSc4nnnn4CC)CS[C@@H]23)c2ccc(O)cc2)C(=O)C1=O;10.0;;Cefoperazone;%;SMILES
+98;99;CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl;94.0;;Felodipine;%;SMILES
+1283;1284;CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl;85.0;;Amlodipine;%;SMILES
+83;84;CCOC(=O)[C@@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@@H]1C(=O)O;40.0;;Enalapril;%;SMILES
+23;24;CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCc2ccccc2N(CC(=O)O)C1=O;37.0;;Benazepril HCl;%;SMILES
+228;229;CCOc1cc(CC(=O)N[C@@H](CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O;100.0;;Repaglinide;%;SMILES
+293;294;CCOc1ccccc1OCC1CNCCO1;98.0;;Viloxazine;%;SMILES
+133;134;CC[C@@H](C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2;65.0;;Ivermectin;%;SMILES
+666;667;CC[C@@H]1OC(=O)[C@@H](C)[C@H](O[C@@H]2C[C@](C)(OC)[C@H](O)[C@@H](C)O2)[C@H](C)[C@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@@](C)(O)C[C@@H](C)/C(=N\OCOCCOC)[C@H](C)[C@@H](O)[C@@]1(C)O;86.0;;Roxithromycin;%;SMILES
+82;83;CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21;75.0;;Emetine;%;SMILES
+55;56;CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O;100.0;;Clarithromycin;%;SMILES
+397;398;CC[N+](C)(C)Cc1ccccc1Br;23.0;;Bretylium;%;SMILES
+93;94;CCc1cc(C(N)=S)ccn1;80.0;;Ethionamide;%;SMILES
+94;95;CCc1cccc2c1NC1C2=CCOC1(CC)CC(=O)O;80.0;;Etodolac;%;SMILES
+198;199;CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21;90.0;;Pefloxacin;%;SMILES
+149;150;CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21;95.0;;Lomefloxacin;%;SMILES
+85;86;CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21;70.0;;Enoxacin;%;SMILES
+380;381;CN(C(=O)[C@@H]1CCN1C(=O)[C@H](NCC(=O)O)C1CCCCC1)c1ccc(C(=N)N)cc1;5.0;;Melagatran;%;SMILES
+162;163;CN(C)C(=N)N=C(N)N;52.0;;Metformin HCl;%;SMILES
+150;151;CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1;40.0;;Loperamide HCl;%;SMILES
+35;36;CN(C)C(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O;97.0;;Camazepam;%;SMILES
+50;51;CN(C)CC/C=C1/c2ccccc2Sc2ccc(Cl)cc21;90.0;;Chlorprothixene;%;SMILES
+31;32;CN(C)CCC(c1ccc(Br)cc1)c1ccccn1;100.0;;Brompheniramine;%;SMILES
+48;49;CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1;80.0;;Chlorpheniramine;%;SMILES
+13;14;CN(C)CCC=C1c2ccccc2CCc2ccccc21;95.0;;Amitriptyline;%;SMILES
+127;128;CN(C)CCCN1c2ccccc2CCc2ccccc21;98.0;;Imipramine;%;SMILES
+49;50;CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21;98.0;;Chlorpromazine;%;SMILES
+217;218;CN(C)CCCN1c2ccccc2Sc2ccccc21;100.0;;Promazine;%;SMILES
+75;76;CN(C)CCOC(c1ccccc1)c1ccccc1;72.0;;Diphenhydramine;%;SMILES
+272;273;CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)C3CC12;80.0;;Tetracycline;%;SMILES
+269;270;CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12;80.0;;Terbinafine;%;SMILES
+415;416;CN(CC(=O)O)C(=O)CN;100.0;;Glycylsarcosine;%;SMILES
+164;165;CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1;20.0;;Methotrexate;%;SMILES
+267;268;CN1/C(=C(\O)Nc2ccccn2)C(=O)c2sccc2S1(=O)=O;100.0;;Tenoxicam;%;SMILES
+69;70;CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21;99.0;;Diazepam;%;SMILES
+206;207;CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O;100.0;;Piroxicam;%;SMILES
+242;243;CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12;93.0;;Scopolamine;%;SMILES
+416;417;CN1CC(=O)N=C1N;70.0;;Creatinine;%;SMILES
+138;139;CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1;90.0;;Ketotifen;%;SMILES
+398;399;CN1CCC(c2c[nH]c3ccc(NC(=O)c4ccc(F)cc4)cc23)CC1;100.0;;LY334370;%;SMILES
+178;179;CN1CCCC1c1cccnc1;100.0;;Nicotine;%;SMILES
+57;58;CN1CCN(C2=c3ccccc3=Nc3ccc(Cl)cc3N2)CC1;100.0;;Clozapine;%;SMILES
+205;206;CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1;25.0;;Pirenzepine;%;SMILES
+287;288;CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1;16.0;;Trifluoperazine;%;SMILES
+172;173;CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5;90.0;;Morphine;%;SMILES
+20;21;CN1[C@@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2;94.0;;Atropine;%;SMILES
+90;91;CNC(C)C(O)c1ccccc1;90.0;;Ephedrine, Pseudoephedrine;%;SMILES
+104;105;CNCCC(Oc1ccc(C)cc1)c1ccccc1;80.0;;Fluoxetine;%;SMILES
+66;67;CNCCCN1c2ccccc2CCc2ccccc21;95.0;;Desipramine;%;SMILES
+260;261;CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1;57.0;;Sumatriptan;%;SMILES
+389;390;CO/N=C(/C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(=O)[nH]n3C)CS[C@H]12)c1csc(N)n1;1.0;;Ceftriaxone;%;SMILES
+132;133;COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc2nonc12;96.0;;Isradipine;%;SMILES
+158;159;COC(=O)Nc1nc2ccc(C(=O)c3ccccc3)cc2[nH]1;100.0;;Mebendazole;%;SMILES
+229;230;COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC;50.0;;Reserpine;%;SMILES
+117;118;COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O;45.0;;Griseofulvin;%;SMILES
+62;63;COC1CC(OC2CCC3(C=O)C4CCC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)OC(C)C1O;47.0;;Cymarin;%;SMILES
+387;388;COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C;69.0;;Mibefradil;%;SMILES
+40;41;CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1;5.0;;Cefuroxime;%;SMILES
+913;914;CO[C@@]1(NC(=O)CSCC#N)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CS[C@H]21;10.0;;Cefmetazole;%;SMILES
+915;916;CO[C@@]1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]21;15.0;;Cefoxitin;%;SMILES
+1293;1294;COc1cc(C(=O)NCc2ccc(OCCN(C)C)cc2)cc(OC)c1OC;60.0;;Trimethobenzamide;%;SMILES
+288;289;COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC;95.0;;Trimethoprim;%;SMILES
+54;55;COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC;100.0;;Cisapride;%;SMILES
+95;96;COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O;50.0;;Etoposide;%;SMILES
+1285;1286;COc1cc2nc(N(C)CCCNC(=O)C3CCCO3)nc(N)c2cc1OC;71.0;;Alfuzosin;%;SMILES
+268;269;COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC;91.0;;Terazosin;%;SMILES
+211;212;COc1cc2nc(N3CCN(C(=O)c4occc4Cl)CC3)nc(N)c2cc1OC;86.0;;Prazocin;%;SMILES
+113;114;COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1;44.0;;Gefitinib;%;SMILES
+18;19;COc1ccc(CCN2CCC(Nc3nc4ccccc4n3Cc3ccc(F)cc3)CC2)cc1;7.0;;Astemizole;%;SMILES
+381;382;COc1ccc(CCNCCC[C@](C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC;95.0;;R-norverapamil;%;SMILES
+195;196;COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC;90.0;;Papaverine (PAP);%;SMILES
+74;75;COc1ccc([C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)[C@@H]2OC(C)=O)cc1;92.0;;Diltiazem;%;SMILES
+58;59;COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341;93.0;;Codeine;%;SMILES
+187;188;COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1;97.0;;Omeprazole;%;SMILES
+283;284;COc1cccc(C2(O)CCCCC2CN(C)C)c1;95.0;;Tramadol (TMD);%;SMILES
+1291;1292;COc1cccc(OC)c1-c1cc(C(=O)NC2(C(=O)O)C3CC4CC(C3)CC2C4)nn1-c1ccc(C(=O)N(C)CCCN(C)C)cc1C(C)C;5.0;;SR142948;%;SMILES
+1125;1126;COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(C)=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1;10.0;;Daunorubicin;%;SMILES
+447;448;CS(=O)(=O)N[C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCC1CCN(C(=N)N)CC1;10.0;;BMS 189664;%;SMILES
+274;275;CSc1ccc2ncn(/C=C/C(=O)O)c(=O)c2c1;99.0;;Tiacrilast (Ro 22-3747);%;SMILES
+67;68;C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO;90.0;;Dexamethasone;%;SMILES
+190;191;C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O;14.0;;Ouabain;%;SMILES
+165;166;C[C@@](N)(Cc1ccc(O)c(O)c1)C(=O)O;40.0;;Methyldopa;%;SMILES
+372;373;C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@H]2[C@H]3[C@H](C[C@H](O)[C@@]21C)[C@@]1(C)CC[C@@H](O)CC1C[C@H]3O;100.0;;Taurocholic acid;%;SMILES
+36;37;C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O;80.0;;Captopril (Cap);%;SMILES
+14;15;C[C@H](N)Cc1ccccc1;90.0;;Amphetamine sulfate;%;SMILES
+1289;1290;C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1[C@H](C(=O)O)C[C@H]2CCCC[C@@H]21;5.0;;Trandolaprilat (RU44403);%;SMILES
+84;85;C[C@H](N[C@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@@H]1C(=O)O;10.0;;Enalaprilat;%;SMILES
+248;249;C[C@H]1CN(c2c(F)c(N)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)C[C@@H](C)N1;90.0;;Sparfloxacin (SPX);%;SMILES
+1274;1275;C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23;99.0;;Levofloxacin;%;SMILES
+166;167;C[C@H]1C[C@H]2[C@@H]3CC[C@](O)(C(=O)CO)[C@@]3(C)C[C@H](O)[C@@H]2[C@@]2(C)C=CC(=O)C=C12;82.0;;Methylprednisolone;%;SMILES
+600;601;C[C@H]1O[C@@H](O[C@@H]2C=CC=CC=CC=CC=CC=CC=C[C@@H](C)[C@H](O)[C@@H](C)[C@@H](C)OC(=O)C[C@H](O)C[C@H](O)CC[C@H](O)[C@H](O)C[C@H](O)C[C@]3(O)C[C@H](O)[C@@H](C(=O)O)[C@H](C2)O3)[C@@H](O)[C@@H](N)C1O;3.0;;Amphotericin B (AMB);%;SMILES
+73;74;C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H]6C[C@@H](O)[C@]7(C)C(C8=CC(=O)OC8)CC[C@]7(O)[C@@H]6CC[C@@H]5C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O;81.0;;Digoxin;%;SMILES
+1122;1123;C[C@H]1[C@H](NC(=O)/C(=N\OC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O;1.0;;Aztreonam;%;SMILES
+80;81;C[C@H]1c2cccc(O)c2C(O)=C2C(=O)[C@]3(O)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21;33.0;;Doxycycline;%;SMILES
+214;215;C[C@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;95.0;;Prednisone;%;SMILES
+213;214;C[C@]12CC(O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;99.0;;Prednisolone;%;SMILES
+271;272;C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O;100.0;;Testosterone;%;SMILES
+350;351;C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO;100.0;;Corticosterone;%;SMILES
+123;124;C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO;91.0;;Hydrocortisone;%;SMILES
+1288;1289;Cc1c(C(=O)NN2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1;90.0;;Rimonabant;%;SMILES
+11;12;Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C;100.0;;Aminopyrine;%;SMILES
+142;143;Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1;85.0;;Lansoprazole;%;SMILES
+1124;1125;Cc1c2oc3c(C)ccc(C(=O)NC4C(=O)N[C@H](C(C)C)C(=O)N5CCC[C@H]5C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC4C)c3nc-2c(C(=O)NC2C(=O)N[C@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c(N)c1=O;5.0;;Actinomycin;%;SMILES
+302;303;Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1;96.0;;Zomepirac;%;SMILES
+131;132;Cc1cc(NC(O)=C2C(=O)c3ccccc3S(=O)(=O)N2C)no1;100.0;;Isoxicam;%;SMILES
+253;254;Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1;100.0;;Sulfamethoxazole;%;SMILES
+230;231;Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)CO)c2cc1C;80.0;;Riboflavin (vitamin B2);%;SMILES
+301;302;Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1;95.0;;Zolpidem;%;SMILES
+2;3;Cc1ccc(/C(=C/CN2CCCC2)c2cccc(/C=C/C(=O)O)n2)cc1;88.0;;Acrivastine;%;SMILES
+280;281;Cc1ccc(C(=O)c2ccc(CC(=O)O)n2C)cc1;90.0;;Tolmetin;%;SMILES
+126;127;Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1;67.0;;Imatinib;%;SMILES
+1284;1285;Cc1ccc2nc(N)[nH]c(=O)c2c1Sc1ccncc1;82.0;;Thymitaq (AG337);%;SMILES
+159;160;Cc1cccc(Nc2ccccc2C(=O)O)c1C;90.0;;Mefenamic acid;%;SMILES
+169;170;Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N[C@H]1C;65.0;;Metolazone;%;SMILES
+176;177;Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1;90.0;;Nevirapine;%;SMILES
+298;299;Cc1cn(C2CC(N=[N+]=[N-])C(CO)O2)c(=O)[nH]c1=O;90.0;;Zidovudine;%;SMILES
+250;251;Cc1cn([C@H]2C=C[C@@H](CO)O2)c(=O)[nH]c1=O;82.0;;Stavudine (d4T);%;SMILES
+114;115;Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1;100.0;;Glipizide;%;SMILES
+160;161;Cc1cnc(N/C(O)=C2/C(=O)c3ccccc3S(=O)(=O)N2C)s1;99.0;;Meloxicam;%;SMILES
+234;235;Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2;75.0;;Risperidone;%;SMILES
+220;221;Cc1ncc(CO)c(CO)c1O;95.0;;Pyridoxine (Vitamin B6);%;SMILES
+170;171;Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2;100.0;;Midazolam;%;SMILES
+188;189;Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O;100.0;;Ondansetron;%;SMILES
+252;253;Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1;85.0;;Sulfamethizole;%;SMILES
+912;913;Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@@H]3SC2)s1;5.0;;Cefazolin;%;SMILES
+5;6;Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2;90.0;;Alprazolam;%;SMILES
+286;287;Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2;86.0;;Triazolam;%;SMILES
+257;258;Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C;100.0;;Sulfisoxazole;%;SMILES
+77;78;Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12;85.0;;Dicloxacillin;%;SMILES
+427;428;Cc1onc(-c2ccccc2)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12;33.0;;Oxacillin;%;SMILES
+56;57;Clc1cccc(Cl)c1NC1=NCCN1;95.0;;Clonidine;%;SMILES
+1292;1293;Clc1ccccc1CN1CCc2sccc2C1;90.0;;Ticlopidine;%;SMILES
+105;106;Fc1cccc2c1O[C@H]1CNC[C@H]1O2;100.0;;Fluparoxan (GR50360A);%;SMILES
+1271;1272;N#Cc1cc(F)c(Cl)nc1Cl;88.0;;Trovafloxacin;%;SMILES
+399;400;N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1;0.0;;Pentamidine;%;SMILES
+171;172;N=c1nc(N2CCCCC2)cc(N)n1O;95.0;;Minoxidil;%;SMILES
+396;397;NC(=O)CC[C@H](N)C(=O)O;69.0;;Glutamine;%;SMILES
+266;267;NC(=O)n1c(O)c(C(=O)c2cccs2)c2cc(Cl)ccc21;90.0;;Tenidap;%;SMILES
+152;153;NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1;100.0;;Loracarbef;%;SMILES
+38;39;NC(C(=O)N[C@H]1C(=O)N2C(C(=O)O)=C(CSc3nc[nH]n3)CS[C@@H]12)c1ccc(O)cc1;76.0;;Cefatrizine;%;SMILES
+144;145;NC(Cc1cc(I)c(Oc2cc(I)c(O)c(I)c2)c(I)c1)C(=O)O;80.0;;Levothyroxine;%;SMILES
+[201, 202];[202, 203];NC(Cc1ccccc1)C(=O)O;100.0;;['Phenytoin', 'L-Phenylalanine'];%;SMILES
+9;10;NC(N)=NC(=O)c1nc(Cl)c(N)nc1N;50.0;;Amiloride;%;SMILES
+118;119;NC(N)=NN=Cc1c(Cl)cccc1Cl;79.0;;Guanabenz;%;SMILES
+[97, 414];[98, 415];NC(N)=Nc1nc(CSCC/C(N)=N\S(N)(=O)=O)cs1;38.0;;Famotidine;%;SMILES
+7;8;NC12CC3CC(CC(C3)C1)C2;90.0;;Amantadine;%;SMILES
+289;290;NC1[C@@H]2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)C[C@H]12;88.0;;Trovafloxacin;%;SMILES
+392;393;NCC(=O)O;100.0;;Glycine;%;SMILES
+111;112;NCC1(CC(=O)O)CCCCC1;50.0;;Gabapentin;%;SMILES
+284;285;NCC1CCC(C(=O)O)CC1;50.0;;Tranexamic acid;%;SMILES
+147;148;NCCCC[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@@H]1C(=O)O;25.0;;Lisinopril;%;SMILES
+121;122;NNc1nncc2ccccc12;90.0;;Hydralazine;%;SMILES
+24;25;NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O;90.0;;Bendroflumethiazide;%;SMILES
+47;48;NS(=O)(=O)c1cc2c(cc1Cl)N=CNS2(=O)=O;56.0;;Chlorothiazide;%;SMILES
+122;123;NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O;67.0;;Hydrochlorothiazide;%;SMILES
+143;144;N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O;86.0;;Levodopa (L-dopa);%;SMILES
+393;394;N[C@@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)O;100.0;;D-Phe-L-Pro;%;SMILES
+428;429;Nc1cc(-c2ccncc2)c[nH]c1=O;93.0;;Amrinone;%;SMILES
+251;252;Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1;65.0;;Sulfadiazine;%;SMILES
+140;141;Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1;86.0;;Lamivudine;%;SMILES
+39;40;Nc1nc(/C(=C/CC(=O)O)C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=CCS[C@H]23)cs1;90.0;;Ceftibuten;%;SMILES
+109;110;Nc1nc(=O)c2nc(CNc3ccc(C(=O)N[C@H](CCC(=O)O)C(=O)O)cc3)cnc2[nH]1;75.0;;Folic acid;%;SMILES
+3;4;Nc1nc(=O)c2ncn(COCCO)c2[nH]1;30.0;;Acyclovir;%;SMILES
+153;154;Nc1nc2c(ncn2C2[C@@H](CO)C[C@@H]2CO)c(=O)[nH]1;50.0;;Lobucavir;%;SMILES
+112;113;Nc1nc2c(ncn2COC(CO)CO)c(=O)[nH]1;9.0;;Gancyclovir;%;SMILES
+141;142;Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1;98.0;;Lamotrigine;%;SMILES
+120;121;O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1;100.0;;Haloperidol;%;SMILES
+101;102;O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F;81.0;;Flecainide;%;SMILES
+295;296;O=C(NCCNC[C@@H](O)COc1ccc(O)cc1)N1CCOCC1;9.0;;Xamoterol;%;SMILES
+255;256;O=C(O)C1=C/C(=N/Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)C=CC1=O;12.0;;Sulfasalazine;%;SMILES
+371;372;O=C(O)C1=C/C(=N\Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)C=CC1=O;13.0;;Sulfasalazine;%;SMILES
+193;194;O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1;95.0;;Oxaprozin;%;SMILES
+1123;1124;O=C(O)CNCCNCC(=O)O;5.0;;HBED (ethylenediamine-N,N'-diacetic acid);%;SMILES
+44;45;O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1;60.0;;Cetirizine;%;SMILES
+70;71;O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl;100.0;;Diclofenac;%;SMILES
+406;407;O=C(O)P(=O)(O)O;17.0;;Foscarnet;%;SMILES
+817;818;O=C(O)[C@H]1O[C@@H](Oc2cc3oc(-c4ccccc4)cc(=O)c3c(O)c2O)[C@H](O)[C@@H](O)[C@@H]1O;21.0;;Baicalin (12) (BG);%;SMILES
+72;73;O=C(O)c1cc(-c2ccc(F)cc2F)ccc1O;90.0;;Diflunisal;%;SMILES
+186;187;O=C(O)c1cc(/N=N/c2ccc(O)c(C(=O)O)c2)ccc1O;3.0;;Olsalazine;%;SMILES
+303;304;O=C(O)c1ccccc1O;100.0;;Salicylic acid;%;SMILES
+53;54;O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O;70.0;;Ciprofloxacin (CIP);%;SMILES
+134;135;O=C(c1ccc(F)cc1)C1CCN(CCn2c(=O)[nH]c3ccccc3c2=O)CC1;81.0;;Ketanserin;%;SMILES
+224;225;O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12;82.0;;Raloxifene HCl;%;SMILES
+137;138;O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O;95.0;;Ketorolac;%;SMILES
+256;257;O=C1C(CCS(=O)c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1;85.0;;Sulfinpyrazone;%;SMILES
+34;35;O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1;100.0;;Buspirone;%;SMILES
+183;184;O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1;99.0;;Nordazepam (Desmethyldiazepam);%;SMILES
+29;30;O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1;84.0;;Bromazepam;%;SMILES
+299;300;O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1;60.0;;Ziprasidone;%;SMILES
+1282;1283;O=C1N(c2ccccc2)c2ccccc2C1(Cc1ccncc1)Cc1ccncc1;100.0;;Linopirdine;%;SMILES
+191;192;O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O;97.0;;Oxazepam;%;SMILES
+154;155;O=C1Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1O;93.0;;Lorazepam;%;SMILES
+81;82;O=C1Nc2ccc(Cl)cc2[C@@](C#CC2CC2)(C(F)(F)F)O1;67.0;;Efavirenz;%;SMILES
+419;420;O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21;85.0;;Mitoxantrone;%;SMILES
+445;446;O=P(O)(O)C(Cl)(Cl)P(=O)(O)O;2.5;;Clodronate;%;SMILES
+52;53;O=c1[nH]c2cc(Cl)ccc2o1;90.0;;Chlorzoxazone;%;SMILES
+203;204;O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1;55.0;;Pimozide;%;SMILES
+79;80;O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1;93.0;;Domperidone;%;SMILES
+835;836;O=c1c(-c2ccc(O)cc2)coc2c(C3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)ccc12;35.0;;Puerarin (34);%;SMILES
+665;666;O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12;55.0;;Genistein;%;SMILES
+811;812;O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12;55.0;;Luteolin (6);%;SMILES
+384;385;O=c1ccc2ccccc2o1;100.0;;Cumarin;%;SMILES
+285;286;O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12;100.0;;Trazodone;%;SMILES
+982;983;O=c1nc(O)ccn1[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O;20.0;;Cytarabine (1);%;SMILES
+71;72;O=c1nc[nH]c2c1ncn2[C@H]1CC[C@@H](CO)O1;42.0;;Didanosine;%;SMILES
+103;104;OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F;100.0;;Fluconazole;%;SMILES
+76;77;OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1;60.0;;Dipyridamole;%;SMILES
+305;306;OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO;17.0;;Mannitol;%;SMILES
+402;403;OC[C@@H]1O[C@@](O)(CO)[C@H](O)[C@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O;0.6;;Lactulose;%;SMILES
+421;422;OC[C@H](O)[C@H](O)CO;90.0;;Erythritol;%;SMILES
+223;224;OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO[C@H]3O[C@H](CO)[C@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O;0.3;;Raffinose;%;SMILES
+351;352;OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O;42.0;;Sucrose;%;SMILES

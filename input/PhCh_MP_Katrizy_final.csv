@@ -1,0 +1,405 @@
+ID;orig_ID;SMILES;y;CAS;NAME;UNITS;smiles_source
+0;1.0;Cc1ccccc1C;-25.0;;o-xylene;C;orig_SMILES_col
+1;1.0;Cc1cccc(C)c1;-47.0;;m-xylene;C;orig_SMILES_col
+2;1.0;Cc1ccc(C)cc1;13.0;;p-xylene;C;orig_SMILES_col
+3;2.0;CCc1ccccc1C;-81.0;;o-ethyltoluene;C;orig_SMILES_col
+4;2.0;CCc1cccc(C)c1;-96.0;;m-ethyltoluene;C;orig_SMILES_col
+5;2.0;CCc1ccc(C)cc1;-62.0;;p-ethyltoluene;C;orig_SMILES_col
+6;3.0;Cc1ccccc1C(C)C;-71.5;;o-cymene;C;orig_SMILES_col
+7;3.0;Cc1cccc(C(C)C)c1;-63.7;;m-cymene;C;orig_SMILES_col
+8;3.0;Cc1ccc(C(C)C)cc1;-74.0;;p-cymene;C;orig_SMILES_col
+9;4.0;Cc1ccccc1F;-62.0;;o-fluorotoluene;C;orig_SMILES_col
+10;4.0;Cc1cccc(F)c1;-87.7;;m-fluorotoluene;C;orig_SMILES_col
+11;4.0;Cc1ccc(F)cc1;-56.8;;p-fluorotoluene;C;orig_SMILES_col
+12;5.0;Cc1ccccc1Cl;-38.0;;o-chlorotoluene;C;orig_SMILES_col
+13;5.0;Cc1cccc(Cl)c1;-48.0;;m-chlorotoluene;C;orig_SMILES_col
+14;5.0;Cc1ccc(Cl)cc1;7.0;;p-chlorotoluene;C;orig_SMILES_col
+15;6.0;Cc1ccccc1Br;-28.0;;o-bromotoluene;C;orig_SMILES_col
+16;6.0;Cc1cccc(Br)c1;-40.0;;m-bromotoluene;C;orig_SMILES_col
+17;6.0;Cc1ccc(Br)cc1;29.0;;p-bromotoluene;C;orig_SMILES_col
+18;7.0;Cc1ccccc1[N+](=O)[O-];-4.0;;o-nitrotoluene;C;orig_SMILES_col
+19;7.0;Cc1cccc([N+](=O)[O-])c1;16.0;;m-nitrotoluene;C;orig_SMILES_col
+20;7.0;Cc1ccc([N+](=O)[O-])cc1;54.0;;p-nitrotoluene;C;orig_SMILES_col
+23;102.0;CC(=O)c1ccc(C)cc1;28.0;;p-methylacetophenone;C;orig_SMILES_col
+24;9.0;CCc1ccccc1CC;-31.2;;o-diethyl benzene;C;orig_SMILES_col
+25;9.0;CCc1cccc(CC)c1;-83.89;;m-diethyl benzene;C;orig_SMILES_col
+26;9.0;CCc1ccc(CC)cc1;-42.85;;p-diethyl benzene;C;orig_SMILES_col
+27;10.0;CCc1ccccc1Cl;-82.7;;o-chloroethylbenzene;C;orig_SMILES_col
+29;10.0;CCc1ccc(Cl)cc1;-62.6;;p-chloroethylbenzene;C;orig_SMILES_col
+31;11.0;C#Cc1cccc(C#C)c1;3.0;;m-diethynylbenzene;C;orig_SMILES_col
+32;11.0;C#Cc1ccc(C#C)cc1;95.0;;p-diethynylbenzene;C;orig_SMILES_col
+35;12.0;CCc1ccc(Br)cc1;65.0;;p-bromoethynylbenzene;C;orig_SMILES_col
+36;13.0;Fc1ccccc1F;-34.0;;o-difluorobenzene;C;orig_SMILES_col
+37;13.0;Fc1cccc(F)c1;82.0;;m-difluorobenzene;C;orig_SMILES_col
+38;13.0;Fc1ccc(F)cc1;-13.0;;p-difluorobenzene;C;orig_SMILES_col
+39;14.0;Clc1ccccc1Cl;-18.0;;o-dichlorobenzene;C;orig_SMILES_col
+40;14.0;Clc1cccc(Cl)c1;-24.0;;m-dichlorobenzene;C;orig_SMILES_col
+41;14.0;Clc1ccc(Cl)cc1;53.0;;p-dichlorobenzene;C;orig_SMILES_col
+42;15.0;Clc1ccccc1Br;-13.0;;o-bromochlorobenzene;C;orig_SMILES_col
+43;15.0;Clc1cccc(Br)c1;-21.0;;m-bromochlorobenzene;C;orig_SMILES_col
+44;15.0;Clc1ccc(Br)cc1;67.0;;p-bromochlorobenzene;C;orig_SMILES_col
+46;16.0;Clc1cccc(CBr)c1;22.0;;m-chlorobenzyl bromide;C;orig_SMILES_col
+47;16.0;Clc1ccc(CBr)cc1;51.0;;p-chlorobenzyl bromide;C;orig_SMILES_col
+50;17.0;CC(C)c1ccc(Br)cc1;-23.0;;p-bromoisopropylbenzene;C;orig_SMILES_col
+51;18.0;Brc1ccccc1Br;7.0;;o-dibromobenzene;C;orig_SMILES_col
+52;18.0;Brc1cccc(Br)c1;-7.0;;m-dibromobenzene;C;orig_SMILES_col
+53;18.0;Brc1ccc(Br)cc1;89.0;;p-dibromobenzene;C;orig_SMILES_col
+54;19.0;Brc1ccccc1I;21.0;;o-bromoiodobenzene;C;orig_SMILES_col
+55;19.0;Brc1cccc(I)c1;9.0;;m-bromoiodobenzene;C;orig_SMILES_col
+56;19.0;Brc1ccc(I)cc1;92.0;;p-bromoiodobenzene;C;orig_SMILES_col
+57;20.0;BrCc1ccccc1Br;31.0;;o-bromobenzyl bromide;C;orig_SMILES_col
+58;20.0;BrCc1cccc(Br)c1;41.0;;m-bromobenzyl bromide;C;orig_SMILES_col
+59;20.0;BrCc1ccc(Br)cc1;63.0;;p-bromobenzyl bromide;C;orig_SMILES_col
+61;21.0;Cc1cccc(I)c1;-27.2;;m-iodotoluene;C;orig_SMILES_col
+62;21.0;Cc1ccc(I)cc1;34.0;;p-iodotoluene;C;orig_SMILES_col
+66;23.0;BrCc1ccccc1I;57.0;;o-iodobenzyl bromide;C;orig_SMILES_col
+67;23.0;BrCc1cccc(I)c1;51.0;;m-iodobenzyl bromide;C;orig_SMILES_col
+68;23.0;BrCc1ccc(I)cc1;80.0;;p-iodobenzyl bromide;C;orig_SMILES_col
+70;24.0;CC(=O)Oc1cccc(I)c1;38.0;;m-iodophenyl acetate;C;orig_SMILES_col
+71;24.0;CC(=O)Oc1ccc(I)cc1;32.0;;p-iodophenyl acetate;C;orig_SMILES_col
+74;25.0;CC(=O)c1ccc(I)cc1;85.0;;p-iodoacetophenone;C;orig_SMILES_col
+75;26.0;Cc1ccccc1O;30.0;;o-cresol;C;orig_SMILES_col
+76;26.0;Cc1cccc(O)c1;12.0;;m-cresol;C;orig_SMILES_col
+77;26.0;Cc1ccc(O)cc1;34.0;;p-cresol;C;orig_SMILES_col
+79;27.0;CCc1cccc(O)c1;-4.0;;m-ethylphenol;C;orig_SMILES_col
+80;27.0;CCc1ccc(O)cc1;47.0;;p-ethylphenol;C;orig_SMILES_col
+82;28.0;CCCc1cccc(O)c1;26.0;;m-n-propylphenol;C;orig_SMILES_col
+83;28.0;CCCc1ccc(O)cc1;21.0;;p-n-propylphenol;C;orig_SMILES_col
+84;29.0;Oc1ccccc1Cl;9.0;;o-chlorophenol;C;orig_SMILES_col
+85;29.0;Oc1cccc(Cl)c1;33.0;;m-chlorophenol;C;orig_SMILES_col
+86;29.0;Oc1ccc(Cl)cc1;43.0;;p-chlorophenol;C;orig_SMILES_col
+87;30.0;Oc1ccccc1Br;5.0;;o-bromophenol;C;orig_SMILES_col
+88;30.0;Oc1cccc(Br)c1;33.0;;m-bromophenol;C;orig_SMILES_col
+89;30.0;Oc1ccc(Br)cc1;64.0;;p-bromophenol;C;orig_SMILES_col
+90;31.0;Oc1ccccc1I;43.0;;o-iodophenol;C;orig_SMILES_col
+91;31.0;Oc1cccc(I)c1;40.0;;m-iodophenol;C;orig_SMILES_col
+92;31.0;Oc1ccc(I)cc1;94.0;;p-iodophenol;C;orig_SMILES_col
+93;32.0;Oc1ccccc1O;105.0;;o-dihydroxybenzene;C;orig_SMILES_col
+94;32.0;Oc1cccc(O)c1;111.0;;m-dihydroxybenzene;C;orig_SMILES_col
+95;32.0;Oc1ccc(O)cc1;172.0;;p-dihydroxybenzene;C;orig_SMILES_col
+96;33.0;O=Cc1ccccc1O;-7.0;;o-hydroxybenzaldehyde;C;orig_SMILES_col
+97;33.0;O=Cc1cccc(O)c1;108.0;;m-hydroxybenzaldehyde;C;orig_SMILES_col
+98;33.0;O=Cc1ccc(O)cc1;116.0;;p-hydroxybenzaldehyde;C;orig_SMILES_col
+99;34.0;O=C(O)c1ccccc1O;159.0;;o-hydroxybenzoic acid;C;orig_SMILES_col
+100;34.0;O=C(O)c1cccc(O)c1;200.0;;m-hydroxybenzoic acid;C;orig_SMILES_col
+101;34.0;O=C(O)c1ccc(O)cc1;214.0;;p-hydroxybenzoic acid;C;orig_SMILES_col
+102;35.0;COc1ccccc1O;32.0;;o-methoxyphenol;C;orig_SMILES_col
+104;35.0;COc1ccc(O)cc1;56.0;;p-methoxyphenol;C;orig_SMILES_col
+105;36.0;O=[N+]([O-])c1ccccc1O;45.0;;o-nitrophenol;C;orig_SMILES_col
+106;36.0;O=[N+]([O-])c1cccc(O)c1;97.0;;m-nitrophenol;C;orig_SMILES_col
+107;36.0;O=[N+]([O-])c1ccc(O)cc1;114.0;;p-nitrophenol;C;orig_SMILES_col
+108;37.0;O=Cc1ccccc1Cl;11.0;;o-chlorobenzaldehyde;C;orig_SMILES_col
+109;37.0;O=Cc1cccc(Cl)c1;18.0;;m-chlorobenzaldehyde;C;orig_SMILES_col
+110;37.0;O=Cc1ccc(Cl)cc1;47.0;;p-chlorobenzaldehyde;C;orig_SMILES_col
+111;38.0;O=Cc1ccccc1Br;22.0;;o-bromobenzaldehyde;C;orig_SMILES_col
+113;38.0;O=Cc1ccc(Br)cc1;67.0;;p-bromobenzaldehyde;C;orig_SMILES_col
+114;39.0;O=Cc1ccccc1I;37.0;;o-iodobenzaldehyde;C;orig_SMILES_col
+115;39.0;O=Cc1cccc(I)c1;57.0;;m-iodobenzaldehyde;C;orig_SMILES_col
+116;39.0;O=Cc1ccc(I)cc1;78.0;;p-iodobenzaldehyde;C;orig_SMILES_col
+117;40.0;COc1ccccc1C=O;38.0;;o-methoxybenzaldehyde;C;orig_SMILES_col
+119;40.0;COc1ccc(C=O)cc1;2.0;;p-methoxybenzaldehyde;C;orig_SMILES_col
+120;41.0;O=Cc1ccccc1[N+](=O)[O-];44.0;;o-nitrobenzaldehyde;C;orig_SMILES_col
+121;41.0;O=Cc1cccc([N+](=O)[O-])c1;58.0;;m-nitrobenzaldehyde;C;orig_SMILES_col
+122;41.0;O=Cc1ccc([N+](=O)[O-])cc1;106.0;;p-nitrobenzaldehyde;C;orig_SMILES_col
+123;42.0;Nc1ccccc1C=O;40.0;;o-aminobenzaldehyde;C;orig_SMILES_col
+124;42.0;Nc1cccc(C=O)c1;30.0;;m-aminobenzaldehyde;C;orig_SMILES_col
+125;42.0;Nc1ccc(C=O)cc1;72.0;;p-aminobenzaldehyde;C;orig_SMILES_col
+126;43.0;N#Cc1ccccc1C=O;109.0;;o-cyanobenzaldehyde;C;orig_SMILES_col
+127;43.0;N#Cc1cccc(C=O)c1;78.0;;m-cyanobenzaldehyde;C;orig_SMILES_col
+128;43.0;N#Cc1ccc(C=O)cc1;101.0;;p-cyanobenzaldehyde;C;orig_SMILES_col
+129;44.0;Cc1ccccc1C(=O)O;105.0;;o-methylbenzoic acid;C;orig_SMILES_col
+130;44.0;Cc1cccc(C(=O)O)c1;112.0;;m-methylbenzoic acid;C;orig_SMILES_col
+131;44.0;Cc1ccc(C(=O)O)cc1;178.0;;p-methylbenzoic acid;C;orig_SMILES_col
+132;45.0;CCc1ccccc1C(=O)O;68.0;;o-ethylbenzoic acid;C;orig_SMILES_col
+133;45.0;CCc1cccc(C(=O)O)c1;47.0;;m-ethylbenzoic acid;C;orig_SMILES_col
+134;45.0;CCc1ccc(C(=O)O)cc1;114.0;;p-ethylbenzoic acid;C;orig_SMILES_col
+135;46.0;CCCc1ccccc1C(=O)O;58.0;;o-n-propylbenzoic acid;C;orig_SMILES_col
+136;46.0;CCCc1cccc(C(=O)O)c1;43.0;;m-n-propylbenzoic acid;C;orig_SMILES_col
+137;46.0;CCCc1ccc(C(=O)O)cc1;141.0;;p-n-propylbenzoic acid;C;orig_SMILES_col
+138;47.0;CC(C)c1ccccc1C(=O)O;64.0;;o-isopropylbenzoic acid;C;orig_SMILES_col
+139;47.0;CC(C)c1cccc(C(=O)O)c1;51.0;;m-isopropylbenzoic acid;C;orig_SMILES_col
+140;47.0;CC(C)c1ccc(C(=O)O)cc1;118.0;;p-isopropylbenzoic acid;C;orig_SMILES_col
+141;48.0;O=C(O)c1ccccc1F;127.0;;o-fluorobenzoic acid;C;orig_SMILES_col
+142;48.0;O=C(O)c1cccc(F)c1;124.0;;m-fluorobenzoic acid;C;orig_SMILES_col
+143;48.0;O=C(O)c1ccc(F)cc1;185.0;;p-fluorobenzoic acid;C;orig_SMILES_col
+144;49.0;O=C(O)c1ccccc1Cl;141.0;;o-chlorobenzoic acid;C;orig_SMILES_col
+145;49.0;O=C(O)c1cccc(Cl)c1;158.0;;m-chlorobenzoic acid;C;orig_SMILES_col
+146;49.0;O=C(O)c1ccc(Cl)cc1;240.0;;p-chlorobenzoic acid;C;orig_SMILES_col
+147;50.0;O=C(O)c1ccccc1Br;150.0;;o-bromobenzoic acid;C;orig_SMILES_col
+148;50.0;O=C(O)c1cccc(Br)c1;155.0;;m-bromobenzoic acid;C;orig_SMILES_col
+149;50.0;O=C(O)c1ccc(Br)cc1;252.0;;p-bromobenzoic acid;C;orig_SMILES_col
+150;51.0;O=C(O)c1ccccc1I;162.0;;o-iodobenzoic acid;C;orig_SMILES_col
+151;51.0;O=C(O)c1cccc(I)c1;187.0;;m-iodobenzoic acid;C;orig_SMILES_col
+152;51.0;O=C(O)c1ccc(I)cc1;270.0;;p-iodobenzoic acid;C;orig_SMILES_col
+153;52.0;O=C(O)c1ccccc1CBr;150.0;;o-bromomethylbenzoic acid;C;orig_SMILES_col
+154;52.0;O=C(O)c1cccc(CBr)c1;156.0;;m-bromomethylbenzoic acid;C;orig_SMILES_col
+155;52.0;O=C(O)c1ccc(CBr)cc1;229.0;;p-bromomethylbenzoic acid;C;orig_SMILES_col
+156;53.0;O=C(O)c1ccccc1C(=O)O;234.0;;o-benzenedicarboxylic acid;C;orig_SMILES_col
+157;53.0;O=C(O)c1cccc(C(=O)O)c1;348.0;;m-benzenedicarboxylic acid;C;orig_SMILES_col
+159;54.0;CC(=O)Oc1ccccc1C(=O)O;135.0;;o-acetoxybenzoic acid;C;orig_SMILES_col
+160;54.0;CC(=O)Oc1cccc(C(=O)O)c1;131.0;;m-acetoxybenzoic acid;C;orig_SMILES_col
+161;54.0;CC(=O)Oc1ccc(C(=O)O)cc1;187.0;;p-acetoxybenzoic acid;C;orig_SMILES_col
+162;55.0;COc1ccccc1C(=O)O;101.0;;o-methoxybenzoic acid;C;orig_SMILES_col
+163;55.0;COc1cccc(C(=O)O)c1;110.0;;m-methoxybenzoic acid;C;orig_SMILES_col
+164;55.0;COc1ccc(C(=O)O)cc1;184.0;;p-methoxybenzoic acid;C;orig_SMILES_col
+165;56.0;CCOc1ccccc1C(=O)O;19.0;;o-ethoxybenzoic acid;C;orig_SMILES_col
+166;56.0;CCOc1cccc(C(=O)O)c1;137.0;;m-ethoxybenzoic acid;C;orig_SMILES_col
+167;56.0;CCOc1ccc(C(=O)O)cc1;198.0;;p-ethoxybenzoic acid;C;orig_SMILES_col
+168;57.0;O=C(O)c1ccccc1[N+](=O)[O-];147.0;;o-nitrobenzoic acid;C;orig_SMILES_col
+169;57.0;O=C(O)c1cccc([N+](=O)[O-])c1;141.0;;m-nitrobenzoic acid;C;orig_SMILES_col
+170;57.0;O=C(O)c1ccc([N+](=O)[O-])cc1;239.0;;p-nitrobenzoic acid;C;orig_SMILES_col
+171;58.0;Nc1ccccc1C(=O)O;145.0;;o-aminobenzoic acid;C;orig_SMILES_col
+172;58.0;Nc1cccc(C(=O)O)c1;174.0;;m-aminobenzoic acid;C;orig_SMILES_col
+173;58.0;Nc1ccc(C(=O)O)cc1;188.0;;p-aminobenzoic acid;C;orig_SMILES_col
+174;59.0;CNc1ccccc1C(=O)O;179.0;;o-(methylamino)benzoic acid;C;orig_SMILES_col
+175;59.0;CNc1cccc(C(=O)O)c1;129.0;;m-(methylamino)benzoic acid;C;orig_SMILES_col
+176;59.0;CNc1ccc(C(=O)O)cc1;168.0;;p-(methylamino)benzoic acid;C;orig_SMILES_col
+179;60.0;COC(=O)c1ccc(C)cc1;34.0;;p-methyl toluate;C;orig_SMILES_col
+181;61.0;COC(=O)c1cccc(Cl)c1;21.0;;m-methyl chlorobenzoate;C;orig_SMILES_col
+182;61.0;COC(=O)c1ccc(Cl)cc1;44.0;;p-methyl chlorobenzoate;C;orig_SMILES_col
+184;62.0;COC(=O)c1cccc(Br)c1;32.0;;m-methyl bromobenzoate;C;orig_SMILES_col
+185;62.0;COC(=O)c1ccc(Br)cc1;81.0;;p-methyl bromobenzoate;C;orig_SMILES_col
+187;63.0;COC(=O)c1cccc(I)c1;54.0;;m-methyl iodobenzoate;C;orig_SMILES_col
+188;63.0;COC(=O)c1ccc(I)cc1;114.0;;p-methyl iodobenzoate;C;orig_SMILES_col
+189;64.0;COC(=O)c1ccccc1O;-8.0;;o-methyl hydroxy benzoate;C;orig_SMILES_col
+190;64.0;COC(=O)c1cccc(O)c1;70.0;;m-methyl hydroxy benzoate;C;orig_SMILES_col
+191;64.0;COC(=O)c1ccc(O)cc1;131.0;;p-methyl hydroxy benzoate;C;orig_SMILES_col
+194;65.0;COC(=O)c1ccc(OC)cc1;49.0;;p-methyl methoxybenzoate;C;orig_SMILES_col
+195;66.0;COC(=O)c1ccccc1[N+](=O)[O-];-13.0;;o-methyl nitrobenzoate;C;orig_SMILES_col
+196;66.0;COC(=O)c1cccc([N+](=O)[O-])c1;79.0;;m-methyl nitrobenzoate;C;orig_SMILES_col
+197;66.0;COC(=O)c1ccc([N+](=O)[O-])cc1;96.0;;p-methyl nitrobenzoate;C;orig_SMILES_col
+198;67.0;COC(=O)c1ccccc1N;24.0;;o-methyl aminobenzoate;C;orig_SMILES_col
+199;67.0;COC(=O)c1cccc(N)c1;38.0;;m-methyl aminobenzoate;C;orig_SMILES_col
+200;67.0;COC(=O)c1ccc(N)cc1;112.0;;p-methyl aminobenzoate;C;orig_SMILES_col
+201;68.0;COc1ccccc1Cl;-26.8;;o-chloroanisole;C;orig_SMILES_col
+204;69.0;COc1ccccc1Br;2.5;;o-bromoanisole;C;orig_SMILES_col
+206;69.0;COc1ccc(Br)cc1;13.0;;p-bromoanisole;C;orig_SMILES_col
+209;70.0;COc1ccc(I)cc1;52.0;;p-iodoanisole;C;orig_SMILES_col
+212;71.0;CCOc1ccc(Cl)cc1;21.0;;p-chlorophenetole;C;orig_SMILES_col
+215;72.0;CCOc1ccc(Br)cc1;4.0;;p-bromophenetole;C;orig_SMILES_col
+218;73.0;CCOc1ccc(I)cc1;29.0;;p-iodophenetole;C;orig_SMILES_col
+222;75.0;O=[N+]([O-])c1ccccc1Cl;33.0;;o-nitrochlorobenzene;C;orig_SMILES_col
+223;75.0;O=[N+]([O-])c1cccc(Cl)c1;46.0;;m-nitrochlorobenzene;C;orig_SMILES_col
+224;75.0;O=[N+]([O-])c1ccc(Cl)cc1;83.0;;p-nitrochlorobenzene;C;orig_SMILES_col
+225;76.0;O=[N+]([O-])c1ccccc1Br;42.0;;o-nitrobromobenzene;C;orig_SMILES_col
+226;76.0;O=[N+]([O-])c1cccc(Br)c1;56.0;;m-nitrobromobenzene;C;orig_SMILES_col
+227;76.0;O=[N+]([O-])c1ccc(Br)cc1;127.0;;p-nitrobromobenzene;C;orig_SMILES_col
+228;77.0;O=[N+]([O-])c1ccccc1I;54.0;;o-nitroiodobenzene;C;orig_SMILES_col
+229;77.0;O=[N+]([O-])c1cccc(I)c1;38.0;;m-nitroiodobenzene;C;orig_SMILES_col
+230;77.0;O=[N+]([O-])c1ccc(I)cc1;174.0;;p-nitroiodobenzene;C;orig_SMILES_col
+231;78.0;O=[N+]([O-])c1ccccc1CCl;49.0;;o-nitrobenzyl chloride;C;orig_SMILES_col
+232;78.0;O=[N+]([O-])c1cccc(CCl)c1;46.0;;m-nitrobenzyl chloride;C;orig_SMILES_col
+233;78.0;O=[N+]([O-])c1ccc(CCl)cc1;71.0;;p-nitrobenzyl chloride;C;orig_SMILES_col
+234;79.0;O=[N+]([O-])c1ccccc1CBr;47.0;;o-nitrobenzyl bromide;C;orig_SMILES_col
+235;79.0;O=[N+]([O-])c1cccc(CBr)c1;59.0;;m-nitrobenzyl bromide;C;orig_SMILES_col
+236;79.0;O=[N+]([O-])c1ccc(CBr)cc1;100.0;;p-nitrobenzyl bromide;C;orig_SMILES_col
+237;80.0;O=[N+]([O-])c1ccccc1CI;75.0;;o-nitrobenzyl iodide;C;orig_SMILES_col
+238;80.0;O=[N+]([O-])c1cccc(CI)c1;86.0;;m-nitrobenzyl iodide;C;orig_SMILES_col
+239;80.0;O=[N+]([O-])c1ccc(CI)cc1;127.0;;p-nitrobenzyl iodide;C;orig_SMILES_col
+240;81.0;O=C(Cl)c1ccccc1[N+](=O)[O-];20.0;;o-nitrobenzoyl chloride;C;orig_SMILES_col
+241;81.0;O=C(Cl)c1cccc([N+](=O)[O-])c1;35.0;;m-nitrobenzoyl chloride;C;orig_SMILES_col
+242;81.0;O=C(Cl)c1ccc([N+](=O)[O-])cc1;75.0;;p-nitrobenzoyl chloride;C;orig_SMILES_col
+243;82.0;CC(=O)Oc1ccccc1[N+](=O)[O-];41.0;;o-nitrophenyl acetate;C;orig_SMILES_col
+244;82.0;CC(=O)Oc1cccc([N+](=O)[O-])c1;56.0;;m-nitrophenyl acetate;C;orig_SMILES_col
+245;82.0;CC(=O)Oc1ccc([N+](=O)[O-])cc1;83.0;;p-nitrophenyl acetate;C;orig_SMILES_col
+246;83.0;COc1ccccc1OC(C)=O;10.0;;o-methoxyphenyl acetate;C;orig_SMILES_col
+247;83.0;COc1cccc(OC(C)=O)c1;39.0;;m-methoxyphenyl acetate;C;orig_SMILES_col
+248;83.0;COc1ccc(OC(C)=O)cc1;54.0;;p-methoxyphenyl acetate;C;orig_SMILES_col
+249;84.0;CCOc1ccccc1OC(C)=O;2.0;;o-ethoxyphenyl acetate;C;orig_SMILES_col
+250;84.0;CCOc1cccc(OC(C)=O)c1;34.0;;m-ethoxyphenyl acetate;C;orig_SMILES_col
+251;84.0;CCOc1ccc(OC(C)=O)cc1;60.0;;p-ethoxyphenyl acetate;C;orig_SMILES_col
+252;85.0;O=[N+]([O-])c1ccccc1[N+](=O)[O-];118.0;;o-dinitrobenzene;C;orig_SMILES_col
+253;85.0;O=[N+]([O-])c1cccc([N+](=O)[O-])c1;89.0;;m-dinitrobenzene;C;orig_SMILES_col
+254;85.0;O=[N+]([O-])c1ccc([N+](=O)[O-])cc1;174.0;;p-dinitrobenzene;C;orig_SMILES_col
+255;86.0;O=[N+]([O-])c1ccccc1CO;74.0;;o-nitrobenzyl alcohol;C;orig_SMILES_col
+256;86.0;O=[N+]([O-])c1cccc(CO)c1;27.0;;m-nitrobenzyl alcohol;C;orig_SMILES_col
+257;86.0;O=[N+]([O-])c1ccc(CO)cc1;93.0;;p-nitrobenzyl alcohol;C;orig_SMILES_col
+258;87.0;CCOC(=O)c1ccccc1[N+](=O)[O-];30.0;;o-ethyl nitrobenzoate;C;orig_SMILES_col
+259;87.0;CCOC(=O)c1cccc([N+](=O)[O-])c1;47.0;;m-ethyl nitrobenzoate;C;orig_SMILES_col
+260;87.0;CCOC(=O)c1ccc([N+](=O)[O-])cc1;57.0;;p-ethyl nitrobenzoate;C;orig_SMILES_col
+261;88.0;COC(=O)C=Cc1ccccc1[N+](=O)[O-];73.0;;o-methyl nitrocinnamate;C;orig_SMILES_col
+262;88.0;COC(=O)C=Cc1cccc([N+](=O)[O-])c1;124.0;;m-methyl nitrocinnamate;C;orig_SMILES_col
+263;88.0;COC(=O)C=Cc1ccc([N+](=O)[O-])cc1;161.0;;p-methyl nitrocinnamate;C;orig_SMILES_col
+264;89.0;CCOC(=O)C=Cc1ccccc1[N+](=O)[O-];44.0;;o-ethyl nitrocinnamate;C;orig_SMILES_col
+265;89.0;CCOC(=O)C=Cc1cccc([N+](=O)[O-])c1;79.0;;m-ethyl nitrocinnamate;C;orig_SMILES_col
+266;89.0;CCOC(=O)C=Cc1ccc([N+](=O)[O-])cc1;142.0;;p-ethyl nitrocinnamate;C;orig_SMILES_col
+267;90.0;CC(=O)c1ccccc1[N+](=O)[O-];28.0;;o-nitroacetophenone;C;orig_SMILES_col
+268;90.0;CC(=O)c1cccc([N+](=O)[O-])c1;81.0;;m-nitroacetophenone;C;orig_SMILES_col
+269;90.0;CC(=O)c1ccc([N+](=O)[O-])cc1;81.0;;p-nitroacetophenone;C;orig_SMILES_col
+270;91.0;O=C(O)Cc1ccccc1[N+](=O)[O-];143.0;;o-nitrophenylacetic acid;C;orig_SMILES_col
+271;91.0;O=C(O)Cc1cccc([N+](=O)[O-])c1;120.0;;m-nitrophenylacetic acid;C;orig_SMILES_col
+272;91.0;O=C(O)Cc1ccc([N+](=O)[O-])cc1;153.0;;p-nitrophenylacetic acid;C;orig_SMILES_col
+273;92.0;N#CCc1ccccc1[N+](=O)[O-];84.0;;o-nitrobenzyl cyanide;C;orig_SMILES_col
+274;92.0;N#CCc1cccc([N+](=O)[O-])c1;62.0;;m-nitrobenzyl cyanide;C;orig_SMILES_col
+275;92.0;N#CCc1ccc([N+](=O)[O-])cc1;117.0;;p-nitrobenzyl cyanide;C;orig_SMILES_col
+276;93.0;Cc1ccccc1CO;36.0;;o-methylbenzyl alcohol;C;orig_SMILES_col
+278;93.0;Cc1ccc(CO)cc1;60.0;;p-methylbenzyl alcohol;C;orig_SMILES_col
+279;94.0;OCc1ccccc1Cl;74.0;;o-chlorobenzyl alcohol;C;orig_SMILES_col
+281;94.0;OCc1ccc(Cl)cc1;75.0;;p-chlorobenzyl alcohol;C;orig_SMILES_col
+282;95.0;OCc1ccccc1Br;80.0;;o-bromobenzyl alcohol;C;orig_SMILES_col
+284;95.0;OCc1ccc(Br)cc1;77.0;;p-bromobenzyl alcohol;C;orig_SMILES_col
+285;96.0;OCc1ccccc1I;90.0;;o-iodobenzyl alcohol;C;orig_SMILES_col
+287;96.0;OCc1ccc(I)cc1;72.0;;p-iodobenzyl alcohol;C;orig_SMILES_col
+288;97.0;OCc1ccccc1O;87.0;;o-hydroxybenzyl alcohol;C;orig_SMILES_col
+289;97.0;OCc1cccc(O)c1;73.0;;m-hydroxybenzyl alcohol;C;orig_SMILES_col
+290;97.0;OCc1ccc(O)cc1;125.0;;p-hydroxybenzyl alcohol;C;orig_SMILES_col
+291;98.0;Nc1ccccc1CO;82.0;;o-aminobenzyl alcohol;C;orig_SMILES_col
+292;98.0;Nc1cccc(CO)c1;97.0;;m-aminobenzyl alcohol;C;orig_SMILES_col
+293;98.0;Nc1ccc(CO)cc1;65.0;;p-aminobenzyl alcohol;C;orig_SMILES_col
+295;99.0;CCOC(=O)c1cccc(O)c1;73.0;;m-ethyl hydroxybenzoate;C;orig_SMILES_col
+296;99.0;CCOC(=O)c1ccc(O)cc1;116.0;;p-ethyl hydroxybenzoate;C;orig_SMILES_col
+299;100.0;CCOC(=O)c1ccc(OC)cc1;7.0;;p-ethyl methoxybenzoate;C;orig_SMILES_col
+300;101.0;CCOC(=O)c1ccccc1N;13.0;;o-ethyl aminobenzoate;C;orig_SMILES_col
+302;101.0;CCOC(=O)c1ccc(N)cc1;92.0;;p-ethyl aminobenzoate;C;orig_SMILES_col
+305;103.0;CC(=O)c1ccc(Cl)cc1;20.0;;p-chloroacetophenone;C;orig_SMILES_col
+307;104.0;CC(=O)c1cccc(Br)c1;8.0;;m-bromoacetophenone;C;orig_SMILES_col
+308;104.0;CC(=O)c1ccc(Br)cc1;51.0;;p-bromoacetophenone;C;orig_SMILES_col
+309;105.0;CC(=O)c1ccccc1O;4.0;;o-hydroxyacetophenone;C;orig_SMILES_col
+310;105.0;CC(=O)c1cccc(O)c1;96.0;;m-hydroxyacetophenone;C;orig_SMILES_col
+311;105.0;CC(=O)c1ccc(O)cc1;109.0;;p-hydroxyacetophenone;C;orig_SMILES_col
+313;106.0;COc1cccc(C(C)=O)c1;95.0;;m-methoxyacetophenone;C;orig_SMILES_col
+314;106.0;COc1ccc(C(C)=O)cc1;39.0;;p-methoxyacetophenone;C;orig_SMILES_col
+315;107.0;CC(=O)c1ccccc1C(C)=O;40.0;;o-diacetylbenzene;C;orig_SMILES_col
+316;107.0;CC(=O)c1cccc(C(C)=O)c1;32.0;;m-diacetylbenzene;C;orig_SMILES_col
+317;107.0;CC(=O)c1ccc(C(C)=O)cc1;113.0;;p-diacetylbenzene;C;orig_SMILES_col
+318;108.0;CC(=O)c1ccccc1N;20.0;;o-aminoacetophenone;C;orig_SMILES_col
+319;108.0;CC(=O)c1cccc(N)c1;99.0;;m-aminoacetophenone;C;orig_SMILES_col
+320;108.0;CC(=O)c1ccc(N)cc1;106.0;;p-aminoacetophenone;C;orig_SMILES_col
+321;109.0;O=C(O)Cc1ccccc1CC(=O)O;150.0;;o-phenylenediacetic acid;C;orig_SMILES_col
+322;109.0;O=C(O)Cc1cccc(CC(=O)O)c1;170.0;;m-phenylenediacetic acid;C;orig_SMILES_col
+323;109.0;O=C(O)Cc1ccc(CC(=O)O)cc1;244.0;;p-phenylenediacetic acid;C;orig_SMILES_col
+324;110.0;Cc1ccccc1N;-21.0;;o-toluidine;C;orig_SMILES_col
+325;110.0;Cc1cccc(N)c1;-44.0;;m-toluidine;C;orig_SMILES_col
+326;110.0;Cc1ccc(N)cc1;44.0;;p-toluidine;C;orig_SMILES_col
+327;111.0;Nc1ccccc1Cl;1.0;;o-chloroaniline;C;orig_SMILES_col
+328;111.0;Nc1cccc(Cl)c1;-10.0;;m-chloroaniline;C;orig_SMILES_col
+329;111.0;Nc1ccc(Cl)cc1;71.0;;p-chloroaniline;C;orig_SMILES_col
+330;112.0;Nc1ccccc1Br;32.0;;o-bromoaniline;C;orig_SMILES_col
+331;112.0;Nc1cccc(Br)c1;18.0;;m-bromoaniline;C;orig_SMILES_col
+332;112.0;Nc1ccc(Br)cc1;66.0;;p-bromoaniline;C;orig_SMILES_col
+333;113.0;Nc1ccccc1I;58.0;;o-iodoaniline;C;orig_SMILES_col
+334;113.0;Nc1cccc(I)c1;25.0;;m-iodoaniline;C;orig_SMILES_col
+335;113.0;Nc1ccc(I)cc1;63.0;;p-iodoaniline;C;orig_SMILES_col
+336;114.0;Nc1ccccc1O;174.0;;o-hydroxyaniline;C;orig_SMILES_col
+337;114.0;Nc1cccc(O)c1;123.0;;m-hydroxyaniline;C;orig_SMILES_col
+338;114.0;Nc1ccc(O)cc1;186.0;;p-hydroxyaniline;C;orig_SMILES_col
+339;115.0;COc1ccccc1N;6.0;;o-methoxyaniline;C;orig_SMILES_col
+340;115.0;COc1cccc(N)c1;-12.0;;m-methoxyaniline;C;orig_SMILES_col
+341;115.0;COc1ccc(N)cc1;57.0;;p-methoxyaniline;C;orig_SMILES_col
+344;116.0;CCOc1ccc(N)cc1;4.0;;p-ethoxyaniline;C;orig_SMILES_col
+345;117.0;Nc1ccccc1[N+](=O)[O-];71.0;;o-nitroaniline;C;orig_SMILES_col
+346;117.0;Nc1cccc([N+](=O)[O-])c1;114.0;;m-nitroaniline;C;orig_SMILES_col
+347;117.0;Nc1ccc([N+](=O)[O-])cc1;148.0;;p-nitroaniline;C;orig_SMILES_col
+348;118.0;Nc1ccccc1N;102.0;;o-diaminobenzene;C;orig_SMILES_col
+349;118.0;Nc1cccc(N)c1;64.0;;m-diaminobenzene;C;orig_SMILES_col
+350;118.0;Nc1ccc(N)cc1;141.0;;p-diaminobenzene;C;orig_SMILES_col
+351;119.0;CNc1ccccc1N;22.0;;o-N-methylphenylenediamine;C;orig_SMILES_col
+353;119.0;CNc1ccc(N)cc1;36.0;;p-N-methylphenylenediamine;C;orig_SMILES_col
+354;120.0;N#Cc1ccccc1N;50.0;;o-cyanoaniline;C;orig_SMILES_col
+355;120.0;N#Cc1cccc(N)c1;53.0;;m-cyanoaniline;C;orig_SMILES_col
+356;120.0;N#Cc1ccc(N)cc1;86.0;;p-cyanoaniline;C;orig_SMILES_col
+357;121.0;CNc1ccccc1O;97.0;;o-N-methylhydroxyaniline;C;orig_SMILES_col
+359;121.0;CNc1ccc(O)cc1;87.0;;p-N-methylhydroxyaniline;C;orig_SMILES_col
+360;122.0;CNc1ccccc1[N+](=O)[O-];37.0;;o-N-methylnitroaniline;C;orig_SMILES_col
+361;122.0;CNc1cccc([N+](=O)[O-])c1;68.0;;m-N-methylnitroaniline;C;orig_SMILES_col
+362;122.0;CNc1ccc([N+](=O)[O-])cc1;152.0;;p-N-methylnitroaniline;C;orig_SMILES_col
+363;123.0;Cc1ccccc1C#N;-14.0;;o-tolunitrile;C;orig_SMILES_col
+364;123.0;Cc1cccc(C#N)c1;-23.0;;m-tolunitrile;C;orig_SMILES_col
+365;123.0;Cc1ccc(C#N)cc1;29.0;;p-tolunitrile;C;orig_SMILES_col
+366;124.0;N#Cc1ccccc1Cl;43.0;;o-chlorobenzonitrile;C;orig_SMILES_col
+367;124.0;N#Cc1cccc(Cl)c1;41.0;;m-chlorobenzonitrile;C;orig_SMILES_col
+368;124.0;N#Cc1ccc(Cl)cc1;96.0;;p-chlorobenzonitrile;C;orig_SMILES_col
+369;125.0;N#Cc1ccccc1Br;53.0;;o-bromobenzonitrile;C;orig_SMILES_col
+370;125.0;N#Cc1cccc(Br)c1;38.0;;m-bromobenzonitrile;C;orig_SMILES_col
+371;125.0;N#Cc1ccc(Br)cc1;113.0;;p-bromobenzonitrile;C;orig_SMILES_col
+372;126.0;N#Cc1ccccc1CBr;73.0;;o-R-bromotolunitrile;C;orig_SMILES_col
+373;126.0;N#Cc1cccc(CBr)c1;93.0;;m-R-bromotolunitrile;C;orig_SMILES_col
+374;126.0;N#Cc1ccc(CBr)cc1;116.0;;p-R-bromotolunitrile;C;orig_SMILES_col
+375;127.0;N#Cc1ccccc1C(=O)O;190.0;;o-cyanobenzoic acid;C;orig_SMILES_col
+376;127.0;N#Cc1cccc(C(=O)O)c1;217.0;;m-cyanobenzoic acid;C;orig_SMILES_col
+377;127.0;N#Cc1ccc(C(=O)O)cc1;219.0;;p-cyanobenzoic acid;C;orig_SMILES_col
+378;128.0;COC(=O)c1ccccc1C#N;51.0;;o-methyl cyanobenzoate;C;orig_SMILES_col
+379;128.0;COC(=O)c1cccc(C#N)c1;65.0;;m-methyl cyanobenzoate;C;orig_SMILES_col
+380;128.0;COC(=O)c1ccc(C#N)cc1;62.0;;p-methyl cyanobenzoate;C;orig_SMILES_col
+381;129.0;N#Cc1ccccc1[N+](=O)[O-];110.0;;o-nitrobenzonitrile;C;orig_SMILES_col
+382;129.0;N#Cc1cccc([N+](=O)[O-])c1;118.0;;m-nitrobenzonitrile;C;orig_SMILES_col
+383;129.0;N#Cc1ccc([N+](=O)[O-])cc1;149.0;;p-nitrobenzonitrile;C;orig_SMILES_col
+384;130.0;CCOC(=O)c1ccccc1C#N;70.0;;o-ethyl cyanobenzoate;C;orig_SMILES_col
+385;130.0;CCOC(=O)c1cccc(C#N)c1;56.0;;m-ethyl cyanobenzoate;C;orig_SMILES_col
+386;130.0;CCOC(=O)c1ccc(C#N)cc1;54.0;;p-ethyl cyanobenzoate;C;orig_SMILES_col
+387;131.0;CC(=O)Nc1ccccc1C;112.0;;o-acetotoluidide;C;orig_SMILES_col
+388;131.0;CC(=O)Nc1cccc(C)c1;66.0;;m-acetotoluidide;C;orig_SMILES_col
+389;131.0;CC(=O)Nc1ccc(C)cc1;154.0;;p-acetotoluidide;C;orig_SMILES_col
+390;132.0;CC(=O)Nc1ccccc1Cl;88.0;;o-chloroacetanilide;C;orig_SMILES_col
+391;132.0;CC(=O)Nc1cccc(Cl)c1;79.0;;m-chloroacetanilide;C;orig_SMILES_col
+392;132.0;CC(=O)Nc1ccc(Cl)cc1;179.0;;p-chloroacetanilide;C;orig_SMILES_col
+393;133.0;CC(=O)Nc1ccccc1Br;99.0;;o-bromoacetanilide;C;orig_SMILES_col
+394;133.0;CC(=O)Nc1cccc(Br)c1;88.0;;m-bromoacetanilide;C;orig_SMILES_col
+395;133.0;CC(=O)Nc1ccc(Br)cc1;167.0;;p-bromoacetanilide;C;orig_SMILES_col
+396;134.0;CC(=O)Nc1ccccc1I;110.0;;o-iodoacetanilide;C;orig_SMILES_col
+397;134.0;CC(=O)Nc1cccc(I)c1;119.0;;m-iodoacetanilide;C;orig_SMILES_col
+398;134.0;CC(=O)Nc1ccc(I)cc1;184.0;;p-iodoacetanilide;C;orig_SMILES_col
+399;135.0;CC(=O)Nc1ccccc1O;209.0;;o-hydroxyacetanilide;C;orig_SMILES_col
+400;135.0;CC(=O)Nc1cccc(O)c1;149.0;;m-hydroxyacetanilide;C;orig_SMILES_col
+401;135.0;CC(=O)Nc1ccc(O)cc1;168.0;;p-hydroxyacetanilide;C;orig_SMILES_col
+402;136.0;CC(=O)Nc1ccccc1C(=O)O;185.0;;o-acetamidobenzoic acid;C;orig_SMILES_col
+403;136.0;CC(=O)Nc1cccc(C(=O)O)c1;250.0;;m-acetamidobenzoic acid;C;orig_SMILES_col
+404;136.0;CC(=O)Nc1ccc(C(=O)O)cc1;251.0;;p-acetamidobenzoic acid;C;orig_SMILES_col
+405;137.0;COc1ccccc1NC(C)=O;88.0;;o-methoxyacetanilide;C;orig_SMILES_col
+406;137.0;COc1cccc(NC(C)=O)c1;80.0;;m-methoxyacetanilide;C;orig_SMILES_col
+407;137.0;COc1ccc(NC(C)=O)cc1;130.0;;p-methoxyacetanilide;C;orig_SMILES_col
+408;138.0;CCOc1ccccc1NC(C)=O;79.0;;o-ethoxyacetanilide;C;orig_SMILES_col
+409;138.0;CCOc1cccc(NC(C)=O)c1;96.0;;m-ethoxyacetanilide;C;orig_SMILES_col
+410;138.0;CCOc1ccc(NC(C)=O)cc1;135.0;;p-ethoxyacetanilide;C;orig_SMILES_col
+411;139.0;CC(=O)Nc1ccccc1[N+](=O)[O-];94.0;;o-nitroacetanilide;C;orig_SMILES_col
+412;139.0;CC(=O)Nc1cccc([N+](=O)[O-])c1;155.0;;m-nitroacetanilide;C;orig_SMILES_col
+413;139.0;CC(=O)Nc1ccc([N+](=O)[O-])cc1;216.0;;p-nitroacetanilide;C;orig_SMILES_col
+414;140.0;CC(=O)Nc1ccccc1N;132.0;;o-aminoacetanilide;C;orig_SMILES_col
+415;140.0;CC(=O)Nc1cccc(N)c1;88.0;;m-aminoacetanilide;C;orig_SMILES_col
+416;140.0;CC(=O)Nc1ccc(N)cc1;163.0;;p-aminoacetanilide;C;orig_SMILES_col
+417;141.0;CC(=O)Nc1ccccc1NC(C)=O;186.0;;o-N,Nâ²-diacetylphenylenediamide;C;orig_SMILES_col
+418;141.0;CC(=O)Nc1cccc(NC(C)=O)c1;191.0;;m-N,Nâ²-diacetylphenylenediamide;C;orig_SMILES_col
+419;141.0;CC(=O)Nc1ccc(NC(C)=O)cc1;304.0;;p-N,Nâ²-diacetylphenylenediamide;C;orig_SMILES_col
+421;142.0;Cc1cccc(C=NO)c1;60.0;;m-tolualdehyde oxime;C;orig_SMILES_col
+422;142.0;Cc1ccc(C=NO)cc1;80.0;;p-tolualdehyde oxime;C;orig_SMILES_col
+426;144.0;ON=Cc1ccccc1O;63.0;;o-hydroxybenzaldehyde oxime;C;orig_SMILES_col
+427;144.0;ON=Cc1cccc(O)c1;90.0;;m-hydroxybenzaldehyde oxime;C;orig_SMILES_col
+428;144.0;ON=Cc1ccc(O)cc1;72.0;;p-hydroxybenzaldehyde oxime;C;orig_SMILES_col
+429;145.0;COc1ccccc1C=NO;92.0;;o-methoxybenzaldoxime;C;orig_SMILES_col
+430;145.0;COc1cccc(C=NO)c1;40.0;;m-methoxybenzaldoxime;C;orig_SMILES_col
+431;145.0;COc1ccc(C=NO)cc1;132.0;;p-methoxybenzaldoxime;C;orig_SMILES_col
+432;146.0;O=[N+]([O-])c1ccccc1C=NO;103.0;;o-nitrobenzaldoxime;C;orig_SMILES_col
+433;146.0;O=[N+]([O-])c1cccc(C=NO)c1;122.0;;m-nitrobenzaldoxime;C;orig_SMILES_col
+434;146.0;O=[N+]([O-])c1ccc(C=NO)cc1;133.0;;p-nitrobenzaldoxime;C;orig_SMILES_col
+435;147.0;Nc1ccccc1C=NO;135.0;;o-aminobenzaldehyde oxime;C;orig_SMILES_col
+437;147.0;Nc1ccc(C=NO)cc1;124.0;;p-aminobenzaldehyde oxime;C;orig_SMILES_col
+438;148.0;Cc1ccccc1C(N)=O;140.0;;o-toluamide;C;orig_SMILES_col
+439;148.0;Cc1cccc(C(N)=O)c1;95.0;;m-toluamide;C;orig_SMILES_col
+440;148.0;Cc1ccc(C(N)=O)cc1;159.0;;p-toluamide;C;orig_SMILES_col
+441;149.0;NC(=O)c1ccccc1Cl;141.0;;o-chlorobenzamide;C;orig_SMILES_col
+442;149.0;NC(=O)c1cccc(Cl)c1;134.0;;m-chlorobenzamide;C;orig_SMILES_col
+443;149.0;NC(=O)c1ccc(Cl)cc1;179.0;;p-chlorobenzamide;C;orig_SMILES_col
+444;150.0;NC(=O)c1ccccc1Br;155.0;;o-bromobenzamide;C;orig_SMILES_col
+445;150.0;NC(=O)c1cccc(Br)c1;155.0;;m-bromobenzamide;C;orig_SMILES_col
+446;150.0;NC(=O)c1ccc(Br)cc1;189.0;;p-bromobenzamide;C;orig_SMILES_col
+447;151.0;NC(=O)c1ccccc1I;184.0;;o-iodobenzamide;C;orig_SMILES_col
+448;151.0;NC(=O)c1cccc(I)c1;186.0;;m-iodobenzamide;C;orig_SMILES_col
+449;151.0;NC(=O)c1ccc(I)cc1;218.0;;p-iodobenzamide;C;orig_SMILES_col
+450;152.0;NC(=O)c1ccccc1O;139.0;;o-hydroxybenzamide;C;orig_SMILES_col
+451;152.0;NC(=O)c1cccc(O)c1;167.0;;m-hydroxybenzamide;C;orig_SMILES_col
+452;152.0;NC(=O)c1ccc(O)cc1;162.0;;p-hydroxybenzamide;C;orig_SMILES_col
+453;153.0;COc1ccccc1C(N)=O;129.0;;o-methoxybenzamide;C;orig_SMILES_col
+455;153.0;COc1ccc(C(N)=O)cc1;163.0;;p-methoxybenzamide;C;orig_SMILES_col
+456;154.0;CCOc1ccccc1C(N)=O;132.0;;o-ethoxybenzamide;C;orig_SMILES_col
+457;154.0;CCOc1cccc(C(N)=O)c1;139.0;;m-ethoxybenzamide;C;orig_SMILES_col
+458;154.0;CCOc1ccc(C(N)=O)cc1;202.0;;p-ethoxybenzamide;C;orig_SMILES_col
+459;155.0;NC(=O)c1ccccc1[N+](=O)[O-];175.0;;o-nitrobenzamide;C;orig_SMILES_col
+460;155.0;NC(=O)c1cccc([N+](=O)[O-])c1;142.0;;m-nitrobenzamide;C;orig_SMILES_col
+461;155.0;NC(=O)c1ccc([N+](=O)[O-])cc1;200.0;;p-nitrobenzamide;C;orig_SMILES_col
+463;156.0;NC(=O)c1cccc(N)c1;111.0;;m-aminobenzamide;C;orig_SMILES_col
+464;156.0;NC(=O)c1ccc(N)cc1;114.0;;p-aminobenzamide;C;orig_SMILES_col
+465;157.0;Cc1ccccc1NC(N)=O;191.0;;o-tolylurea;C;orig_SMILES_col
+466;157.0;Cc1cccc(NC(N)=O)c1;142.0;;m-tolylurea;C;orig_SMILES_col
+467;157.0;Cc1ccc(NC(N)=O)cc1;183.0;;p-tolylurea;C;orig_SMILES_col
+468;158.0;NC(=O)Nc1ccccc1Br;202.0;;o-bromophenyl urea;C;orig_SMILES_col
+469;158.0;NC(=O)Nc1cccc(Br)c1;165.0;;m-bromophenyl urea;C;orig_SMILES_col

@@ -1,0 +1,277 @@
+ID;orig_ID;SMILES;y;CAS;NAME;UNITS;smiles_source
+86;87;Brc1ccccc1;429.2;;bromobenzene;K;isoSMILES_from_NAME
+5;6;C/C(Cl)=C/Cl;361.3;;1,2-dichloropropene;K;isoSMILES_from_NAME
+33;34;C/C=C/C;274.0;;trans-2-butene;K;isoSMILES_from_NAME
+32;33;C/C=C\C;276.9;;cis-2-butene;K;isoSMILES_from_NAME
+102;103;C/C=C\CCC;342.0;;cis-2-hexene;K;isoSMILES_from_NAME
+271;272;C1=CCC=C1;314.6;;cyclopentadiene;K;isoSMILES_from_NAME
+58;59;C1=CCCC1;317.4;;cyclopentene;K;isoSMILES_from_NAME
+244;245;C1=CCCC=C1;353.5;;1,3-cyclohexadiene;K;isoSMILES_from_NAME
+94;95;C1=CCCCC1;356.1;;cyclohexene;K;isoSMILES_from_NAME
+197;198;C1CCC(C2CCCCC2)CC1;512.2;;bicyclohexyl;K;isoSMILES_from_NAME
+63;64;C1CCCC1;322.4;;cyclopentane;K;isoSMILES_from_NAME
+97;98;C1CCCCC1;353.9;;cyclohexane;K;isoSMILES_from_NAME
+275;276;C1CCCNCC1;404.9;;hexamethyleneimine;K;isoSMILES_from_NAME
+236;237;C1CCNCC1;379.6;;piperidine;K;isoSMILES_from_NAME
+38;39;C1CCOC1;338.0;;tetrahydrofuran;K;isoSMILES_from_NAME
+34;35;C=C(C)C;266.3;;isobutene;K;isoSMILES_from_NAME
+214;215;C=C(C)C(C)=O;371.1;;methyl isopropenyl ketone;K;isoSMILES_from_NAME
+98;99;C=C(C)C(C)C;328.8;;2,3-dimethyl-1-butene;K;isoSMILES_from_NAME
+26;27;C=C(C)C=O;341.1;;methacrolein;K;isoSMILES_from_NAME
+228;229;C=C(C)CC;304.3;;2-methyl-1-butene;K;isoSMILES_from_NAME
+156;157;C=C(C)CC(C)(C)C;374.6;;2,4,4-trimethyl-1-pentene;K;isoSMILES_from_NAME
+100;101;C=C(CC)CC;337.8;;2-ethyl-1-butene;K;isoSMILES_from_NAME
+4;5;C=CC;225.4;;propylene;K;isoSMILES_from_NAME
+0;1;C=CC#N;350.5;;acrylonitrile;K;isoSMILES_from_NAME
+59;60;C=CC(=C)C;307.2;;isoprene;K;isoSMILES_from_NAME
+135;136;C=CC(=O)OCC(C)C;405.1;;isobutyl acrylate;K;isoSMILES_from_NAME
+134;135;C=CC(=O)OCCCC;421.0;;n-butylacrylate;K;isoSMILES_from_NAME
+249;250;C=CC(C)(C)C;314.4;;3,3-dimethyl-1-butene;K;isoSMILES_from_NAME
+230;231;C=CC(C)C;293.2;;3-methyl-1-butene;K;isoSMILES_from_NAME
+251;252;C=CC(C)CC;327.3;;3-methyl-1-pentene;K;isoSMILES_from_NAME
+24;25;C=CC=C;268.7;;1,3-butadiene;K;isoSMILES_from_NAME
+1;2;C=CC=O;325.8;;acrylic aldehyde;K;isoSMILES_from_NAME
+31;32;C=CCC;266.9;;1-butene;K;isoSMILES_from_NAME
+106;107;C=CCC(C)C;327.0;;4-methyl-1-pentene;K;isoSMILES_from_NAME
+64;65;C=CCCC;303.1;;1-pentene;K;isoSMILES_from_NAME
+247;248;C=CCCC=C;332.6;;1,5-hexadiene;K;isoSMILES_from_NAME
+101;102;C=CCCCC;336.6;;1-hexene;K;isoSMILES_from_NAME
+278;279;C=CCCCCC;366.8;;1-heptene;K;isoSMILES_from_NAME
+282;283;C=CCCCCCC;394.4;;1-octene;K;isoSMILES_from_NAME
+198;199;C=CCCCCCCCCCC;486.5;;1-dodecene;K;isoSMILES_from_NAME
+204;205;C=CCCCCCCCCCCCC;524.2;;1-tetradecene;K;isoSMILES_from_NAME
+207;208;C=CCCCCCCCCCCCCCC;558.0;;1-hexadecene;K;isoSMILES_from_NAME
+209;210;C=CCCCCCCCCCCCCCCCC;588.0;;1-octadecene;K;isoSMILES_from_NAME
+3;4;C=CCCl;318.1;;3-chloropropene;K;isoSMILES_from_NAME
+15;16;C=CCN;326.5;;allylamine;K;isoSMILES_from_NAME
+6;7;C=CCO;370.2;;allyl alcohol;K;isoSMILES_from_NAME
+61;62;C=CCOC(C)=O;377.1;;allyl acetate;K;isoSMILES_from_NAME
+7;8;C=COC;278.7;;methyl vinyl ether;K;isoSMILES_from_NAME
+29;30;C=COC(C)=O;345.6;;vinyl acetate;K;isoSMILES_from_NAME
+25;26;C=COC=C;301.5;;divinyl ether;K;isoSMILES_from_NAME
+270;271;C=COCC;308.7;;ethylvinylether;K;isoSMILES_from_NAME
+107;108;C=COCCCC;367.0;;butylvinylether;K;isoSMILES_from_NAME
+141;142;C=Cc1ccccc1;418.3;;styrene;K;isoSMILES_from_NAME
+232;233;CC(=O)C(C)C;367.6;;methylisopropylketone;K;isoSMILES_from_NAME
+60;61;CC(=O)CC(C)=O;413.6;;acetylacetone;K;isoSMILES_from_NAME
+110;111;CC(=O)CC(C)C;389.6;;methylisobutylketone;K;isoSMILES_from_NAME
+256;257;CC(=O)OC(C)(C)C;369.1;;tert-butylacetate;K;isoSMILES_from_NAME
+283;284;CC(=O)OCc1ccccc1;486.6;;benzyl acetate;K;isoSMILES_from_NAME
+142;143;CC(=O)c1ccccc1;475.1;;acetophenone;K;isoSMILES_from_NAME
+74;76;CC(C)(C)C;282.6;;neopentane;K;isoSMILES_from_NAME
+237;238;CC(C)(C)CO;386.3;;2,2-dimethyl-1-propanol;K;isoSMILES_from_NAME
+294;296;CC(C)(C)Cl;323.8;;tert-butylchloride;K;isoSMILES_from_NAME
+226;227;CC(C)(C)N;317.6;;tert-butylamine;K;isoSMILES_from_NAME
+50;51;CC(C)(C)O;355.6;;tert-butylalcohol;K;isoSMILES_from_NAME
+185;186;CC(C)(C)c1ccccc1;442.3;;tert-butylbenzene;K;isoSMILES_from_NAME
+83;84;CC(C)(CO)CO;483.0;;neopentylglycol;K;isoSMILES_from_NAME
+99;100;CC(C)=C(C)C;346.4;;2,3-dimethyl-2-butene;K;isoSMILES_from_NAME
+157;158;CC(C)=CC(C)(C)C;378.1;;2,4,4-trimethyl-2-pentene;K;isoSMILES_from_NAME
+268;269;CC(C)=O;329.4;;acetone;K;isoSMILES_from_NAME
+293;294;CC(C)Br;332.6;;2-bromopropane;K;isoSMILES_from_NAME
+47;48;CC(C)C;261.4;;isobutane;K;isoSMILES_from_NAME
+218;219;CC(C)C#N;376.8;;isobutyronitrile;K;isoSMILES_from_NAME
+41;42;CC(C)C(=O)O;427.9;;isobutyric acid;K;isoSMILES_from_NAME
+117;118;CC(C)C(C)C;331.1;;2,3-dimethylbutane;K;isoSMILES_from_NAME
+79;80;CC(C)C(C)O;384.6;;3-methyl-2-butanol;K;isoSMILES_from_NAME
+36;37;CC(C)C=O;337.3;;isobutyraldehyde;K;isoSMILES_from_NAME
+233;234;CC(C)CC(=O)[O-];361.6;;isopropylacetate;K;isoSMILES_from_NAME
+163;164;CC(C)CC(C)(C)C;372.4;;2,2,4-trimethylpentane;K;isoSMILES_from_NAME
+264;265;CC(C)CC(C)O;404.9;;4-methyl-2-pentanol;K;isoSMILES_from_NAME
+114;115;CC(C)CCC(=O)[O-];389.8;;isobutylacetate;K;isoSMILES_from_NAME
+78;79;CC(C)CCO;404.4;;3-methyl-1-butanol;K;isoSMILES_from_NAME
+56;57;CC(C)CN;340.9;;isobutylamine;K;isoSMILES_from_NAME
+52;53;CC(C)CO;380.8;;isobutanol;K;isoSMILES_from_NAME
+158;159;CC(C)COC(=O)C(C)C;420.6;;isobutyl isobutyrate;K;isoSMILES_from_NAME
+69;70;CC(C)COC=O;371.2;;isobutyl formate;K;isoSMILES_from_NAME
+189;190;CC(C)Cc1ccccc1;445.9;;isobutylbenzene;K;isoSMILES_from_NAME
+13;14;CC(C)Cl;308.9;;isopropylchloride;K;isoSMILES_from_NAME
+21;22;CC(C)N;305.6;;isopropylamine;K;isoSMILES_from_NAME
+269;270;CC(C)O;355.4;;2-propanol;K;isoSMILES_from_NAME
+196;197;CC(C)c1cccc(C(C)C)c1;476.3;;m-diisopropylbenzene;K;isoSMILES_from_NAME
+170;171;CC(C)c1ccccc1;425.6;;cumene;K;isoSMILES_from_NAME
+224;225;CC(O)C(C)O;453.9;;2,3-butanediol;K;isoSMILES_from_NAME
+53;54;CC(O)CCO;480.1;;1,3-butanediol;K;isoSMILES_from_NAME
+20;21;CC(O)CO;460.8;;1,2-propyleneglycol;K;isoSMILES_from_NAME
+177;178;CC1=CC(=O)CC(C)(C)C1;488.4;;isophorone;K;isoSMILES_from_NAME
+245;246;CC1=CC=CC1;345.9;;methylcyclopentadiene;K;isoSMILES_from_NAME
+[152, 153];[153, 154];CC1CCC(C)CC1;395.0;;['cis-1,4-dimethylcyclohexane', 'trans-1,4-dimethylcyclohexane'];K;isoSMILES_from_NAME
+104;105;CC1CCCC1;345.0;;methylcyclopentane;K;isoSMILES_from_NAME
+279;280;CC1CCCCC1;374.1;;methylcyclohexane;K;isoSMILES_from_NAME
+229;230;CC=C(C)C;311.7;;2-methyl-2-butene;K;isoSMILES_from_NAME
+16;17;CCC;231.1;;propane;K;isoSMILES_from_NAME
+252;253;CCC(=O)C(C)C;386.6;;ethyl isopropyl ketone;K;isoSMILES_from_NAME
+65;66;CCC(=O)CC;375.1;;diethylketone;K;isoSMILES_from_NAME
+11;12;CCC(=O)O;414.3;;proprionic acid;K;isoSMILES_from_NAME
+42;43;CCC(=O)OC;352.6;;methyl proprionate;K;isoSMILES_from_NAME
+116;117;CCC(C)(C)C;322.9;;2,2-dimethylbutane;K;isoSMILES_from_NAME
+181;182;CCC(C)(C)C(C)(C)C;413.4;;2,2,3,3-tetramethylpentane;K;isoSMILES_from_NAME
+164;165;CCC(C)(C)C(C)C;387.9;;2,3,3-trimethylpentane;K;isoSMILES_from_NAME
+77;78;CCC(C)(C)O;375.1;;2-methyl-2-butanol;K;isoSMILES_from_NAME
+37;38;CCC(C)=O;352.8;;methylethylketone;K;isoSMILES_from_NAME
+220;221;CCC(C)Br;364.4;;2-bromobutane;K;isoSMILES_from_NAME
+73;74;CCC(C)C;301.0;;isopentane;K;isoSMILES_from_NAME
+234;235;CCC(C)C(=O)O;450.1;;2-methylbutyricacid;K;noisoSMILES_from_NAME
+162;163;CCC(C)C(C)(C)C;383.0;;2,2,3-trimethylpentane;K;isoSMILES_from_NAME
+137;138;CCC(C)C(C)C;362.9;;2,3-dimethylpentane;K;isoSMILES_from_NAME
+120;121;CCC(C)CC;336.4;;3-methylpentane;K;isoSMILES_from_NAME
+76;77;CCC(C)CO;401.9;;2-methyl-1-butanol;K;isoSMILES_from_NAME
+221;222;CCC(C)Cl;341.3;;sec-butyl chloride;K;isoSMILES_from_NAME
+225;226;CCC(C)N;336.1;;sec-butylamine;K;isoSMILES_from_NAME
+49;50;CCC(C)O;372.7;;sec-butyl alcohol;K;isoSMILES_from_NAME
+255;256;CCC(C)OC(C)=O;385.1;;sec-butyl acetate;K;isoSMILES_from_NAME
+286;287;CCC(C)c1ccccc1;446.5;;sec-butylbenzene;K;isoSMILES_from_NAME
+179;180;CCC(CC)(CC)CC;419.3;;3,3-diethylpentane;K;isoSMILES_from_NAME
+112;113;CCC(CC)C(=O)O;467.0;;2-ethylbutyric acid;K;isoSMILES_from_NAME
+160;161;CCC(CC)C(C)C;388.8;;2-methyl-3-ethylpentane;K;isoSMILES_from_NAME
+260;261;CCC(CC)CO;419.6;;2-ethyl-1-butanol;K;isoSMILES_from_NAME
+215;216;CCC(Cl)Cl;361.3;;1,1-dichloropropane;K;isoSMILES_from_NAME
+82;83;CCC(O)CC;388.5;;3-pentanol;K;isoSMILES_from_NAME
+136;137;CCC1CCCC1;376.6;;ethylcyclopentane;K;isoSMILES_from_NAME
+154;155;CCC1CCCCC1;405.0;;ethylcyclohexane;K;isoSMILES_from_NAME
+250;251;CCC=C(C)C;340.5;;2-methyl-2-pentene;K;isoSMILES_from_NAME
+8;9;CCC=O;321.2;;n-propionaldehyde;K;isoSMILES_from_NAME
+12;13;CCCBr;344.1;;1-bromopropane;K;isoSMILES_from_NAME
+46;47;CCCC;272.6;;n-butane;K;isoSMILES_from_NAME
+30;31;CCCC#N;390.8;;butyronitrile;K;isoSMILES_from_NAME
+254;255;CCCC(=O)CC;396.6;;3-hexanone;K;isoSMILES_from_NAME
+39;40;CCCC(=O)O;436.4;;n-butyric acid;K;isoSMILES_from_NAME
+235;236;CCCC(=O)OC;375.9;;methyl-n-butyrate;K;isoSMILES_from_NAME
+111;112;CCCC(=O)OCC;394.6;;ethyl n-butyrate;K;isoSMILES_from_NAME
+66;67;CCCC(C)=O;375.5;;2-pentanone;K;isoSMILES_from_NAME
+119;120;CCCC(C)C;333.4;;2-methylpentane;K;isoSMILES_from_NAME
+159;160;CCCC(C)C(C)C;388.8;;2,3-dimethylhexane;K;isoSMILES_from_NAME
+140;141;CCCC(C)CC;365.0;;3-methyl hexane;K;isoSMILES_from_NAME
+263;264;CCCC(C)CO;421.1;;2-methyl-1-pentanol;K;isoSMILES_from_NAME
+81;82;CCCC(C)O;392.1;;2-pentanol;K;isoSMILES_from_NAME
+155;156;CCCC1CCCC1;404.1;;n-propylcyclopentane;K;isoSMILES_from_NAME
+178;179;CCCC1CCCCC1;429.9;;n-propylcyclohexane;K;isoSMILES_from_NAME
+35;36;CCCC=O;348.0;;n-butyraldehyde;K;isoSMILES_from_NAME
+44;45;CCCCBr;374.9;;1-bromobutane;K;isoSMILES_from_NAME
+75;76;CCCCC;309.2;;n-pentane;K;isoSMILES_from_NAME
+227;228;CCCCC#N;414.5;;valeronitrile;K;isoSMILES_from_NAME
+71;72;CCCCC(=O)O;458.6;;valericacid;K;noisoSMILES_from_NAME
+70;71;CCCCC(=O)[O-];374.6;;n-propylacetate;K;isoSMILES_from_NAME
+109;110;CCCCC(C)=O;400.9;;2-hexanone;K;isoSMILES_from_NAME
+139;140;CCCCC(C)C;363.2;;2-methyl hexane;K;noisoSMILES_from_NAME
+262;263;CCCCC(C)O;413.0;;2-hexanol;K;isoSMILES_from_NAME
+166;167;CCCCC(CC)CO;457.8;;2-ethyl-1-hexanol;K;isoSMILES_from_NAME
+190;191;CCCCC1CCCCC1;454.1;;n-butylcyclohexane;K;isoSMILES_from_NAME
+67;68;CCCCC=O;376.1;;valeraldehyde;K;isoSMILES_from_NAME
+118;119;CCCCCC;341.9;;n-hexane;K;isoSMILES_from_NAME
+248;249;CCCCCC#N;436.8;;hexanenitrile;K;isoSMILES_from_NAME
+113;114;CCCCCC(=O)O;478.9;;n-hexanoic acid;K;isoSMILES_from_NAME
+253;254;CCCCCC=O;401.5;;1-hexanal;K;isoSMILES_from_NAME
+138;139;CCCCCCC;371.6;;n-heptane;K;isoSMILES_from_NAME
+161;162;CCCCCCCC;398.1;;n-octane;K;isoSMILES_from_NAME
+180;181;CCCCCCCCC;424.0;;n-nonane;K;isoSMILES_from_NAME
+191;192;CCCCCCCCCC;447.3;;n-decane;K;isoSMILES_from_NAME
+199;200;CCCCCCCCCCCC;489.5;;n-dodecane;K;isoSMILES_from_NAME
+205;206;CCCCCCCCCCCCCC;526.7;;n-tetradecane;K;isoSMILES_from_NAME
+292;293;CCCCCCCCCCCCCCCC;560.0;;n-hexadecane;K;isoSMILES_from_NAME
+211;212;CCCCCCCCCCCCCCCCCC;589.9;;n-octadecane;K;isoSMILES_from_NAME
+210;211;CCCCCCCCCCCCCCCCCC(=O)O;648.3;;stearic acid;K;isoSMILES_from_NAME
+213;214;CCCCCCCCCCCCCCCCCC(=O)OCCCC;623.1;;n-butyl stearate;K;isoSMILES_from_NAME
+212;213;CCCCCCCCCCCCCCCCCCC;603.0;;n-nonadecane;K;isoSMILES_from_NAME
+289;290;CCCCCCCCCCO;503.4;;1-decanol;K;isoSMILES_from_NAME
+267;268;CCCCCCN;404.6;;n-hexylamine;K;isoSMILES_from_NAME
+261;262;CCCCCCO;430.1;;1-hexanol;K;isoSMILES_from_NAME
+200;201;CCCCCCOCCCCCC;498.9;;di-n-hexyl ether;K;isoSMILES_from_NAME
+242;243;CCCCCN;377.6;;n-pentylamine;K;isoSMILES_from_NAME
+80;81;CCCCCO;411.0;;1-pentanol;K;isoSMILES_from_NAME
+296;298;CCCCCOC=O;406.6;;n-pentyl formate;K;isoSMILES_from_NAME
+45;46;CCCCCl;351.6;;1-chlorobutane;K;isoSMILES_from_NAME
+54;55;CCCCN;350.6;;n-butylamine;K;isoSMILES_from_NAME
+48;49;CCCCO;390.8;;butanol;K;isoSMILES_from_NAME
+208;209;CCCCOC(=O)CCCCCCCCC(=O)OCCCC;622.1;;dibutyl sebacate;K;isoSMILES_from_NAME
+206;207;CCCCOC(=O)c1ccccc1C(=O)OCCCC;613.1;;dibutylphthalate;K;isoSMILES_from_NAME
+274;275;CCCCOC(C)=O;399.1;;n-butylacetate;K;isoSMILES_from_NAME
+272;273;CCCCOC=O;379.3;;n-butylformate;K;isoSMILES_from_NAME
+259;260;CCCCOCC;365.4;;n-butyl ethyl ether;K;isoSMILES_from_NAME
+165;166;CCCCOCCCC;413.4;;di-n-butylether;K;isoSMILES_from_NAME
+184;185;CCCCc1ccccc1;456.5;;n-butylbenzene;K;isoSMILES_from_NAME
+14;15;CCCCl;319.7;;n-propylchloride;K;isoSMILES_from_NAME
+22;23;CCCN;321.6;;n-propylamine;K;isoSMILES_from_NAME
+125;126;CCCNCCC;382.0;;di-n-propyl amine;K;isoSMILES_from_NAME
+18;19;CCCO;370.4;;n-propanol;K;isoSMILES_from_NAME
+258;259;CCCOC(=O)CC;395.6;;n-propyl propionate;K;isoSMILES_from_NAME
+43;44;CCCOC=O;354.0;;n-propyl formate;K;isoSMILES_from_NAME
+238;239;CCCOCC;337.0;;ethyl propyl ether;K;isoSMILES_from_NAME
+122;123;CCCOCCC;362.8;;di-n-propylether;K;isoSMILES_from_NAME
+174;175;CCCc1ccccc1;432.4;;n-propylbenzene;K;isoSMILES_from_NAME
+55;56;CCNCC;328.6;;diethylamine;K;isoSMILES_from_NAME
+17;18;CCOC;280.5;;methyl ethyl ether;K;isoSMILES_from_NAME
+257;258;CCOC(=O)C(C)C;383.0;;ethylisobutyrate;K;isoSMILES_from_NAME
+68;69;CCOC(=O)CC;372.3;;ethyl proprionate;K;isoSMILES_from_NAME
+169;170;CCOC(=O)c1ccccc1;486.6;;ethyl benzoate;K;isoSMILES_from_NAME
+195;196;CCOC(=O)c1ccccc1C(=O)OCC;567.1;;diethylphthalate;K;isoSMILES_from_NAME
+40;41;CCOC(C)=O;350.2;;ethyl acetate;K;isoSMILES_from_NAME
+123;124;CCOC(C)OCC;376.8;;acetal;K;isoSMILES_from_NAME
+9;10;CCOC=O;327.5;;ethyl formate;K;isoSMILES_from_NAME
+51;52;CCOCC;308.6;;diethylether;K;isoSMILES_from_NAME
+172;173;CCc1ccc(C)cc1;435.2;;p-ethyltoluene;K;isoSMILES_from_NAME
+287;288;CCc1ccc(CC)cc1;456.9;;p-diethylbenzene;K;isoSMILES_from_NAME
+187;188;CCc1cccc(CC)c1;454.3;;m-diethylbenzene;K;isoSMILES_from_NAME
+143;144;CCc1ccccc1;409.4;;ethylbenzene;K;isoSMILES_from_NAME
+171;172;CCc1ccccc1C;438.3;;o-ethyltoluene;K;isoSMILES_from_NAME
+188;189;CCc1ccccc1CC;456.6;;o-diethylbenzene;K;isoSMILES_from_NAME
+23;24;CN(C)C;276.0;;trimethylamine;K;isoSMILES_from_NAME
+182;183;COC(=O)c1ccc(C(=O)OC)cc1;561.1;;dimethylterephthalate;K;isoSMILES_from_NAME
+285;286;COC(=O)c1ccccc1C(=O)OC;556.8;;dimethylphthalate;K;isoSMILES_from_NAME
+240;241;COC(C)(C)C;328.4;;methyl tert-butylether;K;isoSMILES_from_NAME
+10;11;COC(C)=O;330.1;;methyl acetate;K;isoSMILES_from_NAME
+[222, 239];[240, 223];COC(C)C;327.95000000000005;;['methyl isopropyl ether', 'methyl-sec-butyl ether'];K;['noisoSMILES_from_NAME', 'isoSMILES_from_NAME']
+241;242;COCC(C)C;331.7;;methyl isobutyl ether;K;isoSMILES_from_NAME
+19;20;COCOC;315.0;;methylal;K;isoSMILES_from_NAME
+149;150;C[C@@H]1CCCC[C@H]1C;396.6;;trans-1,2-dimethylcyclohexane;K;isoSMILES_from_NAME
+151;152;C[C@@H]1CCC[C@@H](C)C1;397.6;;trans-1,3-dimethylcyclohexane;K;isoSMILES_from_NAME
+148;149;C[C@H]1CCCC[C@H]1C;402.9;;cis-1,2-dimethylcyclohexane;K;isoSMILES_from_NAME
+150;151;C[C@H]1CCC[C@@H](C)C1;393.2;;cis-1,3-dimethylcyclohexane;K;isoSMILES_from_NAME
+96;97;Cc1cc(C)c(Oc2c(C)cc(C)cc2C)c(C)c1;403.0;;mesityloxide;K;isoSMILES_from_NAME
+173;174;Cc1cc(C)cc(C)c1;437.9;;mesitylene;K;isoSMILES_from_NAME
+186;187;Cc1ccc(C(C)C)cc1;450.3;;p-cymene;K;isoSMILES_from_NAME
+176;177;Cc1ccc(C)c(C)c1;442.5;;1,2,4-trimethylbenzene;K;isoSMILES_from_NAME
+145;146;Cc1ccc(C)cc1;411.5;;p-xylene;K;isoSMILES_from_NAME
+277;278;Cc1ccc(N)cc1;473.4;;p-toluidine;K;isoSMILES_from_NAME
+276;277;Cc1ccc(O)cc1;475.1;;p-cresol;K;isoSMILES_from_NAME
+144;145;Cc1cccc(C)c1;412.3;;m-xylene;K;isoSMILES_from_NAME
+175;176;Cc1cccc(C)c1C;449.3;;1,2,3-trimethylbenzene;K;isoSMILES_from_NAME
+146;147;Cc1cccc(C)c1O;474.2;;2,6-xylenol;K;isoSMILES_from_NAME
+132;133;Cc1cccc(N)c1;476.6;;m-toluidine;K;isoSMILES_from_NAME
+130;131;Cc1cccc(O)c1;475.4;;m-cresol;K;isoSMILES_from_NAME
+128;129;Cc1ccccc1;383.8;;toluene;K;isoSMILES_from_NAME
+281;282;Cc1ccccc1C;417.6;;o-xylene;K;isoSMILES_from_NAME
+133;134;Cc1ccccc1N;473.6;;o-toluidine;K;isoSMILES_from_NAME
+131;132;Cc1ccccc1O;464.1;;o-cresol;K;isoSMILES_from_NAME
+92;93;Cc1ccccn1;402.6;;2-methylpyridine;K;isoSMILES_from_NAME
+243;244;Cc1cccnc1;417.3;;3-methylpyridine;K;isoSMILES_from_NAME
+295;297;Cc1ccncc1;418.5;;4-methylpyridine;K;isoSMILES_from_NAME
+231;232;ClCCCCCCl;453.1;;1,5-dichloropentane;K;isoSMILES_from_NAME
+219;220;ClCCCCCl;427.1;;1,4-dichlorobutane;K;isoSMILES_from_NAME
+216;217;ClCCCCl;393.6;;1,3-dichloropropane;K;isoSMILES_from_NAME
+87;88;Clc1ccccc1;404.9;;chlorobenzene;K;isoSMILES_from_NAME
+85;86;Clc1ccccc1Cl;453.6;;o-dichlorobenzene;K;isoSMILES_from_NAME
+93;94;N#CCCCCC#N;568.1;;adiponitrile;K;isoSMILES_from_NAME
+115;116;NC1CCCCC1;407.6;;cyclohexylamine;K;isoSMILES_from_NAME
+91;92;Nc1ccccc1;457.6;;aniline;K;isoSMILES_from_NAME
+127;128;O=C(O)c1ccccc1;522.4;;benzoic acid;K;isoSMILES_from_NAME
+202;203;O=C(OCc1ccccc1)c1ccccc1;596.6;;benzylbenzoate;K;isoSMILES_from_NAME
+95;96;O=C1CCCCC1;428.9;;cyclohexanone;K;isoSMILES_from_NAME
+126;127;O=Cc1ccccc1;451.9;;benzaldehyde;K;isoSMILES_from_NAME
+273;274;O=Cc1ncc[nH]1;448.3;;isovalericacid;K;noisoSMILES_from_NAME
+108;109;OC1CCCCC1;434.0;;cyclohexanol;K;isoSMILES_from_NAME
+266;267;OCCCCCCO;516.1;;1,6-hexanediol;K;isoSMILES_from_NAME
+84;85;OCCCCCO;512.1;;1,5-pentanediol;K;isoSMILES_from_NAME
+223;224;OCCCCO;501.1;;1,4-butanediol;K;isoSMILES_from_NAME
+217;218;OCCCO;487.6;;1,3-propyleneglycol;K;isoSMILES_from_NAME
+129;130;OCc1ccccc1;477.9;;benzylalcohol;K;isoSMILES_from_NAME
+90;91;Oc1ccc(O)cc1;558.1;;p-hydroquinone;K;isoSMILES_from_NAME
+89;90;Oc1ccccc1;455.0;;phenol;K;isoSMILES_from_NAME
+203;204;c1ccc(CCc2ccccc2)cc1;553.6;;1,2-diphenylethane;K;isoSMILES_from_NAME
+201;202;c1ccc(Cc2ccccc2)cc1;537.4;;diphenylmethane;K;isoSMILES_from_NAME
+194;195;c1ccc(Nc2ccccc2)cc1;575.1;;diphenylamine;K;isoSMILES_from_NAME
+193;194;c1ccc(Oc2ccccc2)cc1;531.5;;diphenylether;K;isoSMILES_from_NAME
+183;184;c1ccc2c(c1)CCCC2;480.8;;1,2,3,4-tetrahydronaphthalene;K;isoSMILES_from_NAME
+167;168;c1ccc2ncccc2c1;510.8;;quinoline;K;isoSMILES_from_NAME
+88;89;c1ccccc1;353.2;;benzene;K;isoSMILES_from_NAME
+57;58;c1ccncc1;388.4;;pyridine;K;isoSMILES_from_NAME
